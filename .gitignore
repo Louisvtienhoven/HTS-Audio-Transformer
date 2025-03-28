@@ -1,1 +1,13 @@
-/workspace/
+workspace/
+AudioSet/
+__pycache__/
+*.log
+*.ckpt
+*.h5
+*.pth
+*.ipynb_checkpoints/
+.env
+.DS_Store
+esc-50/
+workspace_ADS/
+workspace_ADS_v2/
