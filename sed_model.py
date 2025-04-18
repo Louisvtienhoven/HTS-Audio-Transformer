@@ -39,6 +39,7 @@ class SEDWrapper(pl.LightningModule):
         self.config = config
         self.dataset = dataset
         self.loss_func = get_loss_func(config.loss_type)
+        #self.loss_func = get_loss_func(config["loss_type"])
 
     def evaluate_metric(self, pred, ans):
         ap = []
