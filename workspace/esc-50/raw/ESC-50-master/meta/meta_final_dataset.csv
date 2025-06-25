@@ -1,0 +1,1610 @@
+filename,fold,target,category,esc10,src_file,take
+2025-03-19_Test_coupon_2.wav,1,1,anomalous,False,unknown,-1
+Cross_p6cycle_103.wav,2,1,anomalous,False,unknown,103
+Cross_p6cycle_105.wav,3,1,anomalous,False,unknown,105
+Cross_p6cycle_107.wav,4,1,anomalous,False,unknown,107
+Cross_p6cycle_109.wav,5,1,anomalous,False,unknown,109
+Cross_s1_p1cycle_086.wav,6,1,anomalous,False,unknown,86
+Cross_s1_p1cycle_178.wav,7,1,anomalous,False,unknown,178
+Cross_s1_p3cycle_075.wav,8,1,anomalous,False,unknown,75
+Cross_s1_p3cycle_095.wav,9,1,anomalous,False,unknown,95
+Cross_s1_p3cycle_109.wav,10,1,anomalous,False,unknown,109
+Cross_s1_p3cycle_181.wav,11,1,anomalous,False,unknown,181
+Cross_s1_p3cycle_185.wav,12,1,anomalous,False,unknown,185
+Cross_s1_p3cycle_187.wav,13,1,anomalous,False,unknown,187
+Cross_s1_p3cycle_336.wav,14,1,anomalous,False,unknown,336
+Cross_s1_p3cycle_348.wav,15,1,anomalous,False,unknown,348
+Cross_s1_p3cycle_356.wav,16,1,anomalous,False,unknown,356
+Cross_s1_p3cycle_382.wav,17,1,anomalous,False,unknown,382
+Cross_s1_p_uppercycle_220.wav,18,1,anomalous,False,unknown,220
+P5_6_2S1JoiningH1000_cycle_465.wav,19,1,anomalous,False,6_2S1JoiningH1000,465
+cross p7s1_cycle_044.wav,20,1,anomalous,False,unknown,44
+cross p7s1_cycle_593.wav,21,1,anomalous,False,unknown,593
+l6s9.95s10.1_P2S2Girders2H2300_cycle_172.wav,22,1,anomalous,False,P2S2Girders2H2300,172
+min_max_testcycle_005.wav,23,1,anomalous,False,unknown,5
+2025-03-19_Test_coupon_2_augmented_1.wav,24,1,anomalous,False,unknown,-1
+2025-03-19_Test_coupon_2_augmented_2.wav,25,1,anomalous,False,unknown,-1
+2025-03-19_Test_coupon_2_augmented_3.wav,26,1,anomalous,False,unknown,-1
+2025-03-19_Test_coupon_2_augmented_4.wav,27,1,anomalous,False,unknown,-1
+Cross_p6cycle_103_augmented_1.wav,28,1,anomalous,False,unknown,-1
+Cross_p6cycle_103_augmented_2.wav,29,1,anomalous,False,unknown,-1
+Cross_p6cycle_103_augmented_3.wav,30,1,anomalous,False,unknown,-1
+Cross_p6cycle_103_augmented_4.wav,31,1,anomalous,False,unknown,-1
+Cross_p6cycle_105_augmented_1.wav,32,1,anomalous,False,unknown,-1
+Cross_p6cycle_105_augmented_2.wav,33,1,anomalous,False,unknown,-1
+Cross_p6cycle_105_augmented_3.wav,34,1,anomalous,False,unknown,-1
+Cross_p6cycle_105_augmented_4.wav,35,1,anomalous,False,unknown,-1
+Cross_p6cycle_107_augmented_1.wav,36,1,anomalous,False,unknown,-1
+Cross_p6cycle_107_augmented_2.wav,37,1,anomalous,False,unknown,-1
+Cross_p6cycle_107_augmented_3.wav,38,1,anomalous,False,unknown,-1
+Cross_p6cycle_107_augmented_4.wav,39,1,anomalous,False,unknown,-1
+Cross_p6cycle_109_augmented_1.wav,40,1,anomalous,False,unknown,-1
+Cross_p6cycle_109_augmented_2.wav,41,1,anomalous,False,unknown,-1
+Cross_p6cycle_109_augmented_3.wav,42,1,anomalous,False,unknown,-1
+Cross_p6cycle_109_augmented_4.wav,43,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_086_augmented_1.wav,44,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_086_augmented_2.wav,45,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_086_augmented_3.wav,46,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_086_augmented_4.wav,47,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_178_augmented_1.wav,48,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_178_augmented_2.wav,49,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_178_augmented_3.wav,50,1,anomalous,False,unknown,-1
+Cross_s1_p1cycle_178_augmented_4.wav,51,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_075_augmented_1.wav,52,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_075_augmented_2.wav,53,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_075_augmented_3.wav,54,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_075_augmented_4.wav,55,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_095_augmented_1.wav,56,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_095_augmented_2.wav,57,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_095_augmented_3.wav,58,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_095_augmented_4.wav,59,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_109_augmented_1.wav,60,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_109_augmented_2.wav,61,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_109_augmented_3.wav,62,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_109_augmented_4.wav,63,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_181_augmented_1.wav,64,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_181_augmented_2.wav,65,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_181_augmented_3.wav,66,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_181_augmented_4.wav,67,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_185_augmented_1.wav,68,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_185_augmented_2.wav,69,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_185_augmented_3.wav,70,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_185_augmented_4.wav,71,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_187_augmented_1.wav,72,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_187_augmented_2.wav,73,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_187_augmented_3.wav,74,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_187_augmented_4.wav,75,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_336_augmented_1.wav,76,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_336_augmented_2.wav,77,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_336_augmented_3.wav,78,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_336_augmented_4.wav,79,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_348_augmented_1.wav,80,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_348_augmented_2.wav,81,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_348_augmented_3.wav,82,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_348_augmented_4.wav,83,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_356_augmented_1.wav,84,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_356_augmented_2.wav,85,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_356_augmented_3.wav,86,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_356_augmented_4.wav,87,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_382_augmented_1.wav,88,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_382_augmented_2.wav,89,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_382_augmented_3.wav,90,1,anomalous,False,unknown,-1
+Cross_s1_p3cycle_382_augmented_4.wav,91,1,anomalous,False,unknown,-1
+Cross_s1_p_uppercycle_220_augmented_1.wav,92,1,anomalous,False,unknown,-1
+Cross_s1_p_uppercycle_220_augmented_2.wav,93,1,anomalous,False,unknown,-1
+Cross_s1_p_uppercycle_220_augmented_3.wav,94,1,anomalous,False,unknown,-1
+Cross_s1_p_uppercycle_220_augmented_4.wav,95,1,anomalous,False,unknown,-1
+P5_6_2S1JoiningH1000_cycle_465_augmented_1.wav,96,1,anomalous,False,unknown,-1
+P5_6_2S1JoiningH1000_cycle_465_augmented_2.wav,97,1,anomalous,False,unknown,-1
+P5_6_2S1JoiningH1000_cycle_465_augmented_3.wav,98,1,anomalous,False,unknown,-1
+P5_6_2S1JoiningH1000_cycle_465_augmented_4.wav,99,1,anomalous,False,unknown,-1
+cross p7s1_cycle_044_augmented_1.wav,100,1,anomalous,False,unknown,-1
+cross p7s1_cycle_044_augmented_2.wav,101,1,anomalous,False,unknown,-1
+cross p7s1_cycle_044_augmented_3.wav,102,1,anomalous,False,unknown,-1
+cross p7s1_cycle_044_augmented_4.wav,103,1,anomalous,False,unknown,-1
+cross p7s1_cycle_593_augmented_1.wav,104,1,anomalous,False,unknown,-1
+cross p7s1_cycle_593_augmented_2.wav,105,1,anomalous,False,unknown,-1
+cross p7s1_cycle_593_augmented_3.wav,106,1,anomalous,False,unknown,-1
+cross p7s1_cycle_593_augmented_4.wav,107,1,anomalous,False,unknown,-1
+l6s9.95s10.1_P2S2Girders2H2300_cycle_172_augmented_1.wav,108,1,anomalous,False,unknown,-1
+l6s9.95s10.1_P2S2Girders2H2300_cycle_172_augmented_2.wav,109,1,anomalous,False,unknown,-1
+l6s9.95s10.1_P2S2Girders2H2300_cycle_172_augmented_3.wav,110,1,anomalous,False,unknown,-1
+l6s9.95s10.1_P2S2Girders2H2300_cycle_172_augmented_4.wav,111,1,anomalous,False,unknown,-1
+min_max_testcycle_005_augmented_1.wav,112,1,anomalous,False,unknown,-1
+min_max_testcycle_005_augmented_2.wav,113,1,anomalous,False,unknown,-1
+min_max_testcycle_005_augmented_3.wav,114,1,anomalous,False,unknown,-1
+min_max_testcycle_005_augmented_4.wav,115,1,anomalous,False,unknown,-1
+cross p7s1_cycle_004.wav,116,0,normal,False,unknown,4
+cross p7s1_cycle_006.wav,117,0,normal,False,unknown,6
+cross p7s1_cycle_008.wav,118,0,normal,False,unknown,8
+cross p7s1_cycle_010.wav,119,0,normal,False,unknown,10
+cross p7s1_cycle_012.wav,120,0,normal,False,unknown,12
+cross p7s1_cycle_014.wav,121,0,normal,False,unknown,14
+cross p7s1_cycle_016.wav,122,0,normal,False,unknown,16
+cross p7s1_cycle_018.wav,123,0,normal,False,unknown,18
+cross p7s1_cycle_020.wav,124,0,normal,False,unknown,20
+cross p7s1_cycle_022.wav,125,0,normal,False,unknown,22
+cross p7s1_cycle_024.wav,126,0,normal,False,unknown,24
+cross p7s1_cycle_026.wav,127,0,normal,False,unknown,26
+cross p7s1_cycle_028.wav,128,0,normal,False,unknown,28
+cross p7s1_cycle_030.wav,129,0,normal,False,unknown,30
+cross p7s1_cycle_032.wav,130,0,normal,False,unknown,32
+cross p7s1_cycle_034.wav,131,0,normal,False,unknown,34
+cross p7s1_cycle_036.wav,132,0,normal,False,unknown,36
+cross p7s1_cycle_038.wav,133,0,normal,False,unknown,38
+cross p7s1_cycle_040.wav,134,0,normal,False,unknown,40
+cross p7s1_cycle_042.wav,135,0,normal,False,unknown,42
+cross p7s1_cycle_046.wav,136,0,normal,False,unknown,46
+cross p7s1_cycle_048.wav,137,0,normal,False,unknown,48
+cross p7s1_cycle_051.wav,138,0,normal,False,unknown,51
+cross p7s1_cycle_054.wav,139,0,normal,False,unknown,54
+cross p7s1_cycle_056.wav,140,0,normal,False,unknown,56
+cross p7s1_cycle_058.wav,141,0,normal,False,unknown,58
+cross p7s1_cycle_062.wav,142,0,normal,False,unknown,62
+cross p7s1_cycle_064.wav,143,0,normal,False,unknown,64
+cross p7s1_cycle_066.wav,144,0,normal,False,unknown,66
+cross p7s1_cycle_068.wav,145,0,normal,False,unknown,68
+cross p7s1_cycle_070.wav,146,0,normal,False,unknown,70
+cross p7s1_cycle_072.wav,147,0,normal,False,unknown,72
+cross p7s1_cycle_074.wav,148,0,normal,False,unknown,74
+cross p7s1_cycle_076.wav,149,0,normal,False,unknown,76
+cross p7s1_cycle_078.wav,150,0,normal,False,unknown,78
+cross p7s1_cycle_080.wav,151,0,normal,False,unknown,80
+cross p7s1_cycle_082.wav,152,0,normal,False,unknown,82
+cross p7s1_cycle_084.wav,153,0,normal,False,unknown,84
+cross p7s1_cycle_086.wav,154,0,normal,False,unknown,86
+cross p7s1_cycle_088.wav,155,0,normal,False,unknown,88
+cross p7s1_cycle_090.wav,156,0,normal,False,unknown,90
+cross p7s1_cycle_092.wav,157,0,normal,False,unknown,92
+cross p7s1_cycle_094.wav,158,0,normal,False,unknown,94
+cross p7s1_cycle_096.wav,159,0,normal,False,unknown,96
+cross p7s1_cycle_098.wav,160,0,normal,False,unknown,98
+cross p7s1_cycle_100.wav,161,0,normal,False,unknown,100
+cross p7s1_cycle_102.wav,162,0,normal,False,unknown,102
+cross p7s1_cycle_104.wav,163,0,normal,False,unknown,104
+cross p7s1_cycle_106.wav,164,0,normal,False,unknown,106
+cross p7s1_cycle_112.wav,165,0,normal,False,unknown,112
+cross p7s1_cycle_114.wav,166,0,normal,False,unknown,114
+cross p7s1_cycle_116.wav,167,0,normal,False,unknown,116
+cross p7s1_cycle_118.wav,168,0,normal,False,unknown,118
+cross p7s1_cycle_120.wav,169,0,normal,False,unknown,120
+cross p7s1_cycle_122.wav,170,0,normal,False,unknown,122
+cross p7s1_cycle_124.wav,171,0,normal,False,unknown,124
+cross p7s1_cycle_126.wav,172,0,normal,False,unknown,126
+cross p7s1_cycle_128.wav,173,0,normal,False,unknown,128
+cross p7s1_cycle_130.wav,174,0,normal,False,unknown,130
+cross p7s1_cycle_132.wav,175,0,normal,False,unknown,132
+cross p7s1_cycle_134.wav,176,0,normal,False,unknown,134
+cross p7s1_cycle_136.wav,177,0,normal,False,unknown,136
+cross p7s1_cycle_138.wav,178,0,normal,False,unknown,138
+cross p7s1_cycle_142.wav,179,0,normal,False,unknown,142
+cross p7s1_cycle_144.wav,180,0,normal,False,unknown,144
+cross p7s1_cycle_146.wav,181,0,normal,False,unknown,146
+cross p7s1_cycle_148.wav,182,0,normal,False,unknown,148
+cross p7s1_cycle_150.wav,183,0,normal,False,unknown,150
+cross p7s1_cycle_152.wav,184,0,normal,False,unknown,152
+cross p7s1_cycle_154.wav,185,0,normal,False,unknown,154
+cross p7s1_cycle_156.wav,186,0,normal,False,unknown,156
+cross p7s1_cycle_158.wav,187,0,normal,False,unknown,158
+cross p7s1_cycle_160.wav,188,0,normal,False,unknown,160
+cross p7s1_cycle_162.wav,189,0,normal,False,unknown,162
+cross p7s1_cycle_164.wav,190,0,normal,False,unknown,164
+cross p7s1_cycle_166.wav,191,0,normal,False,unknown,166
+cross p7s1_cycle_168.wav,192,0,normal,False,unknown,168
+cross p7s1_cycle_170.wav,193,0,normal,False,unknown,170
+cross p7s1_cycle_172.wav,194,0,normal,False,unknown,172
+cross p7s1_cycle_174.wav,195,0,normal,False,unknown,174
+cross p7s1_cycle_176.wav,196,0,normal,False,unknown,176
+cross p7s1_cycle_178.wav,197,0,normal,False,unknown,178
+cross p7s1_cycle_180.wav,198,0,normal,False,unknown,180
+cross p7s1_cycle_182.wav,199,0,normal,False,unknown,182
+cross p7s1_cycle_184.wav,200,0,normal,False,unknown,184
+cross p7s1_cycle_186.wav,201,0,normal,False,unknown,186
+cross p7s1_cycle_192.wav,202,0,normal,False,unknown,192
+cross p7s1_cycle_194.wav,203,0,normal,False,unknown,194
+cross p7s1_cycle_196.wav,204,0,normal,False,unknown,196
+cross p7s1_cycle_198.wav,205,0,normal,False,unknown,198
+cross p7s1_cycle_200.wav,206,0,normal,False,unknown,200
+cross p7s1_cycle_202.wav,207,0,normal,False,unknown,202
+cross p7s1_cycle_204.wav,208,0,normal,False,unknown,204
+cross p7s1_cycle_206.wav,209,0,normal,False,unknown,206
+cross p7s1_cycle_208.wav,210,0,normal,False,unknown,208
+cross p7s1_cycle_210.wav,211,0,normal,False,unknown,210
+cross p7s1_cycle_212.wav,212,0,normal,False,unknown,212
+cross p7s1_cycle_214.wav,213,0,normal,False,unknown,214
+cross p7s1_cycle_216.wav,214,0,normal,False,unknown,216
+cross p7s1_cycle_218.wav,215,0,normal,False,unknown,218
+cross p7s1_cycle_220.wav,216,0,normal,False,unknown,220
+cross p7s1_cycle_227.wav,217,0,normal,False,unknown,227
+cross p7s1_cycle_229.wav,218,0,normal,False,unknown,229
+cross p7s1_cycle_231.wav,219,0,normal,False,unknown,231
+cross p7s1_cycle_233.wav,220,0,normal,False,unknown,233
+cross p7s1_cycle_235.wav,221,0,normal,False,unknown,235
+cross p7s1_cycle_237.wav,222,0,normal,False,unknown,237
+cross p7s1_cycle_239.wav,223,0,normal,False,unknown,239
+cross p7s1_cycle_241.wav,224,0,normal,False,unknown,241
+cross p7s1_cycle_243.wav,225,0,normal,False,unknown,243
+cross p7s1_cycle_245.wav,226,0,normal,False,unknown,245
+cross p7s1_cycle_247.wav,227,0,normal,False,unknown,247
+cross p7s1_cycle_249.wav,228,0,normal,False,unknown,249
+cross p7s1_cycle_251.wav,229,0,normal,False,unknown,251
+cross p7s1_cycle_253.wav,230,0,normal,False,unknown,253
+cross p7s1_cycle_255.wav,231,0,normal,False,unknown,255
+cross p7s1_cycle_257.wav,232,0,normal,False,unknown,257
+cross p7s1_cycle_259.wav,233,0,normal,False,unknown,259
+cross p7s1_cycle_261.wav,234,0,normal,False,unknown,261
+cross p7s1_cycle_263.wav,235,0,normal,False,unknown,263
+cross p7s1_cycle_267.wav,236,0,normal,False,unknown,267
+cross p7s1_cycle_269.wav,237,0,normal,False,unknown,269
+cross p7s1_cycle_271.wav,238,0,normal,False,unknown,271
+cross p7s1_cycle_273.wav,239,0,normal,False,unknown,273
+cross p7s1_cycle_275.wav,240,0,normal,False,unknown,275
+cross p7s1_cycle_277.wav,241,0,normal,False,unknown,277
+cross p7s1_cycle_279.wav,242,0,normal,False,unknown,279
+cross p7s1_cycle_281.wav,243,0,normal,False,unknown,281
+cross p7s1_cycle_283.wav,244,0,normal,False,unknown,283
+cross p7s1_cycle_285.wav,245,0,normal,False,unknown,285
+cross p7s1_cycle_287.wav,246,0,normal,False,unknown,287
+cross p7s1_cycle_289.wav,247,0,normal,False,unknown,289
+cross p7s1_cycle_291.wav,248,0,normal,False,unknown,291
+cross p7s1_cycle_293.wav,249,0,normal,False,unknown,293
+cross p7s1_cycle_295.wav,250,0,normal,False,unknown,295
+cross p7s1_cycle_297.wav,251,0,normal,False,unknown,297
+cross p7s1_cycle_299.wav,252,0,normal,False,unknown,299
+cross p7s1_cycle_301.wav,253,0,normal,False,unknown,301
+cross p7s1_cycle_303.wav,254,0,normal,False,unknown,303
+cross p7s1_cycle_307.wav,255,0,normal,False,unknown,307
+cross p7s1_cycle_309.wav,256,0,normal,False,unknown,309
+cross p7s1_cycle_311.wav,257,0,normal,False,unknown,311
+cross p7s1_cycle_313.wav,258,0,normal,False,unknown,313
+cross p7s1_cycle_315.wav,259,0,normal,False,unknown,315
+cross p7s1_cycle_317.wav,260,0,normal,False,unknown,317
+cross p7s1_cycle_319.wav,261,0,normal,False,unknown,319
+cross p7s1_cycle_321.wav,262,0,normal,False,unknown,321
+cross p7s1_cycle_323.wav,263,0,normal,False,unknown,323
+cross p7s1_cycle_325.wav,264,0,normal,False,unknown,325
+cross p7s1_cycle_327.wav,265,0,normal,False,unknown,327
+cross p7s1_cycle_329.wav,266,0,normal,False,unknown,329
+cross p7s1_cycle_331.wav,267,0,normal,False,unknown,331
+cross p7s1_cycle_333.wav,268,0,normal,False,unknown,333
+cross p7s1_cycle_335.wav,269,0,normal,False,unknown,335
+cross p7s1_cycle_339.wav,270,0,normal,False,unknown,339
+cross p7s1_cycle_341.wav,271,0,normal,False,unknown,341
+cross p7s1_cycle_343.wav,272,0,normal,False,unknown,343
+cross p7s1_cycle_345.wav,273,0,normal,False,unknown,345
+cross p7s1_cycle_347.wav,274,0,normal,False,unknown,347
+cross p7s1_cycle_349.wav,275,0,normal,False,unknown,349
+cross p7s1_cycle_351.wav,276,0,normal,False,unknown,351
+cross p7s1_cycle_353.wav,277,0,normal,False,unknown,353
+cross p7s1_cycle_355.wav,278,0,normal,False,unknown,355
+cross p7s1_cycle_359.wav,279,0,normal,False,unknown,359
+cross p7s1_cycle_361.wav,280,0,normal,False,unknown,361
+cross p7s1_cycle_363.wav,281,0,normal,False,unknown,363
+cross p7s1_cycle_365.wav,282,0,normal,False,unknown,365
+cross p7s1_cycle_367.wav,283,0,normal,False,unknown,367
+cross p7s1_cycle_369.wav,284,0,normal,False,unknown,369
+cross p7s1_cycle_371.wav,285,0,normal,False,unknown,371
+cross p7s1_cycle_373.wav,286,0,normal,False,unknown,373
+cross p7s1_cycle_375.wav,287,0,normal,False,unknown,375
+cross p7s1_cycle_378.wav,288,0,normal,False,unknown,378
+cross p7s1_cycle_382.wav,289,0,normal,False,unknown,382
+cross p7s1_cycle_384.wav,290,0,normal,False,unknown,384
+cross p7s1_cycle_386.wav,291,0,normal,False,unknown,386
+cross p7s1_cycle_388.wav,292,0,normal,False,unknown,388
+cross p7s1_cycle_390.wav,293,0,normal,False,unknown,390
+cross p7s1_cycle_392.wav,294,0,normal,False,unknown,392
+cross p7s1_cycle_394.wav,295,0,normal,False,unknown,394
+cross p7s1_cycle_396.wav,296,0,normal,False,unknown,396
+cross p7s1_cycle_398.wav,297,0,normal,False,unknown,398
+cross p7s1_cycle_402.wav,298,0,normal,False,unknown,402
+cross p7s1_cycle_404.wav,299,0,normal,False,unknown,404
+cross p7s1_cycle_406.wav,300,0,normal,False,unknown,406
+cross p7s1_cycle_408.wav,301,0,normal,False,unknown,408
+cross p7s1_cycle_410.wav,302,0,normal,False,unknown,410
+cross p7s1_cycle_417.wav,303,0,normal,False,unknown,417
+cross p7s1_cycle_419.wav,304,0,normal,False,unknown,419
+cross p7s1_cycle_421.wav,305,0,normal,False,unknown,421
+cross p7s1_cycle_423.wav,306,0,normal,False,unknown,423
+cross p7s1_cycle_425.wav,307,0,normal,False,unknown,425
+cross p7s1_cycle_427.wav,308,0,normal,False,unknown,427
+cross p7s1_cycle_429.wav,309,0,normal,False,unknown,429
+cross p7s1_cycle_431.wav,310,0,normal,False,unknown,431
+cross p7s1_cycle_433.wav,311,0,normal,False,unknown,433
+cross p7s1_cycle_435.wav,312,0,normal,False,unknown,435
+cross p7s1_cycle_437.wav,313,0,normal,False,unknown,437
+cross p7s1_cycle_439.wav,314,0,normal,False,unknown,439
+cross p7s1_cycle_441.wav,315,0,normal,False,unknown,441
+cross p7s1_cycle_443.wav,316,0,normal,False,unknown,443
+cross p7s1_cycle_445.wav,317,0,normal,False,unknown,445
+cross p7s1_cycle_447.wav,318,0,normal,False,unknown,447
+cross p7s1_cycle_449.wav,319,0,normal,False,unknown,449
+cross p7s1_cycle_451.wav,320,0,normal,False,unknown,451
+cross p7s1_cycle_453.wav,321,0,normal,False,unknown,453
+cross p7s1_cycle_455.wav,322,0,normal,False,unknown,455
+cross p7s1_cycle_457.wav,323,0,normal,False,unknown,457
+cross p7s1_cycle_459.wav,324,0,normal,False,unknown,459
+cross p7s1_cycle_463.wav,325,0,normal,False,unknown,463
+cross p7s1_cycle_465.wav,326,0,normal,False,unknown,465
+cross p7s1_cycle_467.wav,327,0,normal,False,unknown,467
+cross p7s1_cycle_469.wav,328,0,normal,False,unknown,469
+cross p7s1_cycle_471.wav,329,0,normal,False,unknown,471
+cross p7s1_cycle_473.wav,330,0,normal,False,unknown,473
+cross p7s1_cycle_475.wav,331,0,normal,False,unknown,475
+cross p7s1_cycle_477.wav,332,0,normal,False,unknown,477
+cross p7s1_cycle_479.wav,333,0,normal,False,unknown,479
+cross p7s1_cycle_481.wav,334,0,normal,False,unknown,481
+cross p7s1_cycle_483.wav,335,0,normal,False,unknown,483
+cross p7s1_cycle_485.wav,336,0,normal,False,unknown,485
+cross p7s1_cycle_487.wav,337,0,normal,False,unknown,487
+cross p7s1_cycle_489.wav,338,0,normal,False,unknown,489
+cross p7s1_cycle_491.wav,339,0,normal,False,unknown,491
+cross p7s1_cycle_493.wav,340,0,normal,False,unknown,493
+cross p7s1_cycle_495.wav,341,0,normal,False,unknown,495
+cross p7s1_cycle_497.wav,342,0,normal,False,unknown,497
+cross p7s1_cycle_499.wav,343,0,normal,False,unknown,499
+cross p7s1_cycle_501.wav,344,0,normal,False,unknown,501
+cross p7s1_cycle_503.wav,345,0,normal,False,unknown,503
+cross p7s1_cycle_506.wav,346,0,normal,False,unknown,506
+cross p7s1_cycle_509.wav,347,0,normal,False,unknown,509
+cross p7s1_cycle_511.wav,348,0,normal,False,unknown,511
+cross p7s1_cycle_513.wav,349,0,normal,False,unknown,513
+cross p7s1_cycle_515.wav,350,0,normal,False,unknown,515
+cross p7s1_cycle_517.wav,351,0,normal,False,unknown,517
+cross p7s1_cycle_519.wav,352,0,normal,False,unknown,519
+cross p7s1_cycle_521.wav,353,0,normal,False,unknown,521
+cross p7s1_cycle_523.wav,354,0,normal,False,unknown,523
+cross p7s1_cycle_525.wav,355,0,normal,False,unknown,525
+cross p7s1_cycle_529.wav,356,0,normal,False,unknown,529
+cross p7s1_cycle_531.wav,357,0,normal,False,unknown,531
+cross p7s1_cycle_533.wav,358,0,normal,False,unknown,533
+cross p7s1_cycle_535.wav,359,0,normal,False,unknown,535
+cross p7s1_cycle_537.wav,360,0,normal,False,unknown,537
+cross p7s1_cycle_539.wav,361,0,normal,False,unknown,539
+cross p7s1_cycle_541.wav,362,0,normal,False,unknown,541
+cross p7s1_cycle_543.wav,363,0,normal,False,unknown,543
+cross p7s1_cycle_545.wav,364,0,normal,False,unknown,545
+cross p7s1_cycle_547.wav,365,0,normal,False,unknown,547
+cross p7s1_cycle_549.wav,366,0,normal,False,unknown,549
+cross p7s1_cycle_553.wav,367,0,normal,False,unknown,553
+cross p7s1_cycle_555.wav,368,0,normal,False,unknown,555
+cross p7s1_cycle_557.wav,369,0,normal,False,unknown,557
+cross p7s1_cycle_559.wav,370,0,normal,False,unknown,559
+cross p7s1_cycle_561.wav,371,0,normal,False,unknown,561
+cross p7s1_cycle_563.wav,372,0,normal,False,unknown,563
+cross p7s1_cycle_565.wav,373,0,normal,False,unknown,565
+cross p7s1_cycle_567.wav,374,0,normal,False,unknown,567
+cross p7s1_cycle_569.wav,375,0,normal,False,unknown,569
+cross p7s1_cycle_571.wav,376,0,normal,False,unknown,571
+cross p7s1_cycle_573.wav,377,0,normal,False,unknown,573
+cross p7s1_cycle_575.wav,378,0,normal,False,unknown,575
+cross p7s1_cycle_577.wav,379,0,normal,False,unknown,577
+cross p7s1_cycle_581.wav,380,0,normal,False,unknown,581
+cross p7s1_cycle_583.wav,381,0,normal,False,unknown,583
+cross p7s1_cycle_585.wav,382,0,normal,False,unknown,585
+cross p7s1_cycle_587.wav,383,0,normal,False,unknown,587
+cross p7s1_cycle_589.wav,384,0,normal,False,unknown,589
+cross p7s1_cycle_595.wav,385,0,normal,False,unknown,595
+cross p7s1_cycle_597.wav,386,0,normal,False,unknown,597
+cross p7s1_cycle_599.wav,387,0,normal,False,unknown,599
+cross p7s1_cycle_601.wav,388,0,normal,False,unknown,601
+Cross_p6cycle_004.wav,389,0,normal,False,unknown,4
+Cross_p6cycle_006.wav,390,0,normal,False,unknown,6
+Cross_p6cycle_008.wav,391,0,normal,False,unknown,8
+Cross_p6cycle_010.wav,392,0,normal,False,unknown,10
+Cross_p6cycle_012.wav,393,0,normal,False,unknown,12
+Cross_p6cycle_014.wav,394,0,normal,False,unknown,14
+Cross_p6cycle_016.wav,395,0,normal,False,unknown,16
+Cross_p6cycle_018.wav,396,0,normal,False,unknown,18
+Cross_p6cycle_020.wav,397,0,normal,False,unknown,20
+Cross_p6cycle_022.wav,398,0,normal,False,unknown,22
+Cross_p6cycle_024.wav,399,0,normal,False,unknown,24
+Cross_p6cycle_026.wav,400,0,normal,False,unknown,26
+Cross_p6cycle_028.wav,401,0,normal,False,unknown,28
+Cross_p6cycle_030.wav,402,0,normal,False,unknown,30
+Cross_p6cycle_032.wav,403,0,normal,False,unknown,32
+Cross_p6cycle_039.wav,404,0,normal,False,unknown,39
+Cross_p6cycle_041.wav,405,0,normal,False,unknown,41
+Cross_p6cycle_043.wav,406,0,normal,False,unknown,43
+Cross_p6cycle_045.wav,407,0,normal,False,unknown,45
+Cross_p6cycle_047.wav,408,0,normal,False,unknown,47
+Cross_p6cycle_049.wav,409,0,normal,False,unknown,49
+Cross_p6cycle_051.wav,410,0,normal,False,unknown,51
+Cross_p6cycle_053.wav,411,0,normal,False,unknown,53
+Cross_p6cycle_055.wav,412,0,normal,False,unknown,55
+Cross_p6cycle_057.wav,413,0,normal,False,unknown,57
+Cross_p6cycle_059.wav,414,0,normal,False,unknown,59
+Cross_p6cycle_061.wav,415,0,normal,False,unknown,61
+Cross_p6cycle_063.wav,416,0,normal,False,unknown,63
+Cross_p6cycle_065.wav,417,0,normal,False,unknown,65
+Cross_p6cycle_067.wav,418,0,normal,False,unknown,67
+Cross_p6cycle_069.wav,419,0,normal,False,unknown,69
+Cross_p6cycle_071.wav,420,0,normal,False,unknown,71
+Cross_p6cycle_073.wav,421,0,normal,False,unknown,73
+Cross_p6cycle_075.wav,422,0,normal,False,unknown,75
+Cross_p6cycle_077.wav,423,0,normal,False,unknown,77
+Cross_p6cycle_079.wav,424,0,normal,False,unknown,79
+Cross_p6cycle_081.wav,425,0,normal,False,unknown,81
+Cross_p6cycle_083.wav,426,0,normal,False,unknown,83
+Cross_p6cycle_085.wav,427,0,normal,False,unknown,85
+Cross_p6cycle_087.wav,428,0,normal,False,unknown,87
+Cross_p6cycle_089.wav,429,0,normal,False,unknown,89
+Cross_p6cycle_091.wav,430,0,normal,False,unknown,91
+Cross_p6cycle_093.wav,431,0,normal,False,unknown,93
+Cross_p6cycle_095.wav,432,0,normal,False,unknown,95
+Cross_p6cycle_097.wav,433,0,normal,False,unknown,97
+Cross_p6cycle_099.wav,434,0,normal,False,unknown,99
+Cross_p6cycle_101.wav,435,0,normal,False,unknown,101
+Cross_s1_p_uppercycle_004.wav,436,0,normal,False,unknown,4
+Cross_s1_p_uppercycle_006.wav,437,0,normal,False,unknown,6
+Cross_s1_p_uppercycle_008.wav,438,0,normal,False,unknown,8
+Cross_s1_p_uppercycle_010.wav,439,0,normal,False,unknown,10
+Cross_s1_p_uppercycle_012.wav,440,0,normal,False,unknown,12
+Cross_s1_p_uppercycle_014.wav,441,0,normal,False,unknown,14
+Cross_s1_p_uppercycle_016.wav,442,0,normal,False,unknown,16
+Cross_s1_p_uppercycle_018.wav,443,0,normal,False,unknown,18
+Cross_s1_p_uppercycle_020.wav,444,0,normal,False,unknown,20
+Cross_s1_p_uppercycle_022.wav,445,0,normal,False,unknown,22
+Cross_s1_p_uppercycle_024.wav,446,0,normal,False,unknown,24
+Cross_s1_p_uppercycle_026.wav,447,0,normal,False,unknown,26
+Cross_s1_p_uppercycle_028.wav,448,0,normal,False,unknown,28
+Cross_s1_p_uppercycle_030.wav,449,0,normal,False,unknown,30
+Cross_s1_p_uppercycle_032.wav,450,0,normal,False,unknown,32
+Cross_s1_p_uppercycle_036.wav,451,0,normal,False,unknown,36
+Cross_s1_p_uppercycle_038.wav,452,0,normal,False,unknown,38
+Cross_s1_p_uppercycle_040.wav,453,0,normal,False,unknown,40
+Cross_s1_p_uppercycle_042.wav,454,0,normal,False,unknown,42
+Cross_s1_p_uppercycle_044.wav,455,0,normal,False,unknown,44
+Cross_s1_p_uppercycle_046.wav,456,0,normal,False,unknown,46
+Cross_s1_p_uppercycle_048.wav,457,0,normal,False,unknown,48
+Cross_s1_p_uppercycle_050.wav,458,0,normal,False,unknown,50
+Cross_s1_p_uppercycle_052.wav,459,0,normal,False,unknown,52
+Cross_s1_p_uppercycle_054.wav,460,0,normal,False,unknown,54
+Cross_s1_p_uppercycle_056.wav,461,0,normal,False,unknown,56
+Cross_s1_p_uppercycle_058.wav,462,0,normal,False,unknown,58
+Cross_s1_p_uppercycle_060.wav,463,0,normal,False,unknown,60
+Cross_s1_p_uppercycle_062.wav,464,0,normal,False,unknown,62
+Cross_s1_p_uppercycle_064.wav,465,0,normal,False,unknown,64
+Cross_s1_p_uppercycle_066.wav,466,0,normal,False,unknown,66
+Cross_s1_p_uppercycle_068.wav,467,0,normal,False,unknown,68
+Cross_s1_p_uppercycle_070.wav,468,0,normal,False,unknown,70
+Cross_s1_p_uppercycle_072.wav,469,0,normal,False,unknown,72
+Cross_s1_p_uppercycle_076.wav,470,0,normal,False,unknown,76
+Cross_s1_p_uppercycle_078.wav,471,0,normal,False,unknown,78
+Cross_s1_p_uppercycle_080.wav,472,0,normal,False,unknown,80
+Cross_s1_p_uppercycle_082.wav,473,0,normal,False,unknown,82
+Cross_s1_p_uppercycle_084.wav,474,0,normal,False,unknown,84
+Cross_s1_p_uppercycle_086.wav,475,0,normal,False,unknown,86
+Cross_s1_p_uppercycle_088.wav,476,0,normal,False,unknown,88
+Cross_s1_p_uppercycle_090.wav,477,0,normal,False,unknown,90
+Cross_s1_p_uppercycle_092.wav,478,0,normal,False,unknown,92
+Cross_s1_p_uppercycle_094.wav,479,0,normal,False,unknown,94
+Cross_s1_p_uppercycle_096.wav,480,0,normal,False,unknown,96
+Cross_s1_p_uppercycle_098.wav,481,0,normal,False,unknown,98
+Cross_s1_p_uppercycle_100.wav,482,0,normal,False,unknown,100
+Cross_s1_p_uppercycle_102.wav,483,0,normal,False,unknown,102
+Cross_s1_p_uppercycle_104.wav,484,0,normal,False,unknown,104
+Cross_s1_p_uppercycle_106.wav,485,0,normal,False,unknown,106
+Cross_s1_p_uppercycle_108.wav,486,0,normal,False,unknown,108
+Cross_s1_p_uppercycle_110.wav,487,0,normal,False,unknown,110
+Cross_s1_p_uppercycle_112.wav,488,0,normal,False,unknown,112
+Cross_s1_p_uppercycle_118.wav,489,0,normal,False,unknown,118
+Cross_s1_p_uppercycle_120.wav,490,0,normal,False,unknown,120
+Cross_s1_p_uppercycle_122.wav,491,0,normal,False,unknown,122
+Cross_s1_p_uppercycle_124.wav,492,0,normal,False,unknown,124
+Cross_s1_p_uppercycle_126.wav,493,0,normal,False,unknown,126
+Cross_s1_p_uppercycle_128.wav,494,0,normal,False,unknown,128
+Cross_s1_p_uppercycle_130.wav,495,0,normal,False,unknown,130
+Cross_s1_p_uppercycle_132.wav,496,0,normal,False,unknown,132
+Cross_s1_p_uppercycle_134.wav,497,0,normal,False,unknown,134
+Cross_s1_p_uppercycle_136.wav,498,0,normal,False,unknown,136
+Cross_s1_p_uppercycle_138.wav,499,0,normal,False,unknown,138
+Cross_s1_p_uppercycle_140.wav,500,0,normal,False,unknown,140
+Cross_s1_p_uppercycle_142.wav,501,0,normal,False,unknown,142
+Cross_s1_p_uppercycle_144.wav,502,0,normal,False,unknown,144
+Cross_s1_p_uppercycle_146.wav,503,0,normal,False,unknown,146
+Cross_s1_p_uppercycle_150.wav,504,0,normal,False,unknown,150
+Cross_s1_p_uppercycle_152.wav,505,0,normal,False,unknown,152
+Cross_s1_p_uppercycle_154.wav,506,0,normal,False,unknown,154
+Cross_s1_p_uppercycle_156.wav,507,0,normal,False,unknown,156
+Cross_s1_p_uppercycle_158.wav,508,0,normal,False,unknown,158
+Cross_s1_p_uppercycle_160.wav,509,0,normal,False,unknown,160
+Cross_s1_p_uppercycle_162.wav,510,0,normal,False,unknown,162
+Cross_s1_p_uppercycle_164.wav,511,0,normal,False,unknown,164
+Cross_s1_p_uppercycle_166.wav,512,0,normal,False,unknown,166
+Cross_s1_p_uppercycle_170.wav,513,0,normal,False,unknown,170
+Cross_s1_p_uppercycle_172.wav,514,0,normal,False,unknown,172
+Cross_s1_p_uppercycle_174.wav,515,0,normal,False,unknown,174
+Cross_s1_p_uppercycle_176.wav,516,0,normal,False,unknown,176
+Cross_s1_p_uppercycle_178.wav,517,0,normal,False,unknown,178
+Cross_s1_p_uppercycle_180.wav,518,0,normal,False,unknown,180
+Cross_s1_p_uppercycle_186.wav,519,0,normal,False,unknown,186
+Cross_s1_p_uppercycle_190.wav,520,0,normal,False,unknown,190
+Cross_s1_p_uppercycle_194.wav,521,0,normal,False,unknown,194
+Cross_s1_p_uppercycle_196.wav,522,0,normal,False,unknown,196
+Cross_s1_p_uppercycle_198.wav,523,0,normal,False,unknown,198
+Cross_s1_p_uppercycle_200.wav,524,0,normal,False,unknown,200
+Cross_s1_p_uppercycle_202.wav,525,0,normal,False,unknown,202
+Cross_s1_p_uppercycle_204.wav,526,0,normal,False,unknown,204
+Cross_s1_p_uppercycle_206.wav,527,0,normal,False,unknown,206
+Cross_s1_p_uppercycle_208.wav,528,0,normal,False,unknown,208
+Cross_s1_p_uppercycle_210.wav,529,0,normal,False,unknown,210
+Cross_s1_p_uppercycle_214.wav,530,0,normal,False,unknown,214
+Cross_s1_p_uppercycle_216.wav,531,0,normal,False,unknown,216
+Cross_s1_p_uppercycle_218.wav,532,0,normal,False,unknown,218
+Cross_s1_p_uppercycle_222.wav,533,0,normal,False,unknown,222
+Cross_s1_p1cycle_004.wav,534,0,normal,False,unknown,4
+Cross_s1_p1cycle_006.wav,535,0,normal,False,unknown,6
+Cross_s1_p1cycle_008.wav,536,0,normal,False,unknown,8
+Cross_s1_p1cycle_010.wav,537,0,normal,False,unknown,10
+Cross_s1_p1cycle_012.wav,538,0,normal,False,unknown,12
+Cross_s1_p1cycle_014.wav,539,0,normal,False,unknown,14
+Cross_s1_p1cycle_016.wav,540,0,normal,False,unknown,16
+Cross_s1_p1cycle_018.wav,541,0,normal,False,unknown,18
+Cross_s1_p1cycle_020.wav,542,0,normal,False,unknown,20
+Cross_s1_p1cycle_022.wav,543,0,normal,False,unknown,22
+Cross_s1_p1cycle_024.wav,544,0,normal,False,unknown,24
+Cross_s1_p1cycle_026.wav,545,0,normal,False,unknown,26
+Cross_s1_p1cycle_028.wav,546,0,normal,False,unknown,28
+Cross_s1_p1cycle_030.wav,547,0,normal,False,unknown,30
+Cross_s1_p1cycle_032.wav,548,0,normal,False,unknown,32
+Cross_s1_p1cycle_034.wav,549,0,normal,False,unknown,34
+Cross_s1_p1cycle_036.wav,550,0,normal,False,unknown,36
+Cross_s1_p1cycle_038.wav,551,0,normal,False,unknown,38
+Cross_s1_p1cycle_040.wav,552,0,normal,False,unknown,40
+Cross_s1_p1cycle_042.wav,553,0,normal,False,unknown,42
+Cross_s1_p1cycle_044.wav,554,0,normal,False,unknown,44
+Cross_s1_p1cycle_046.wav,555,0,normal,False,unknown,46
+Cross_s1_p1cycle_048.wav,556,0,normal,False,unknown,48
+Cross_s1_p1cycle_052.wav,557,0,normal,False,unknown,52
+Cross_s1_p1cycle_054.wav,558,0,normal,False,unknown,54
+Cross_s1_p1cycle_056.wav,559,0,normal,False,unknown,56
+Cross_s1_p1cycle_058.wav,560,0,normal,False,unknown,58
+Cross_s1_p1cycle_060.wav,561,0,normal,False,unknown,60
+Cross_s1_p1cycle_062.wav,562,0,normal,False,unknown,62
+Cross_s1_p1cycle_064.wav,563,0,normal,False,unknown,64
+Cross_s1_p1cycle_066.wav,564,0,normal,False,unknown,66
+Cross_s1_p1cycle_068.wav,565,0,normal,False,unknown,68
+Cross_s1_p1cycle_070.wav,566,0,normal,False,unknown,70
+Cross_s1_p1cycle_072.wav,567,0,normal,False,unknown,72
+Cross_s1_p1cycle_074.wav,568,0,normal,False,unknown,74
+Cross_s1_p1cycle_076.wav,569,0,normal,False,unknown,76
+Cross_s1_p1cycle_078.wav,570,0,normal,False,unknown,78
+Cross_s1_p1cycle_080.wav,571,0,normal,False,unknown,80
+Cross_s1_p1cycle_082.wav,572,0,normal,False,unknown,82
+Cross_s1_p1cycle_084.wav,573,0,normal,False,unknown,84
+Cross_s1_p1cycle_088.wav,574,0,normal,False,unknown,88
+Cross_s1_p1cycle_090.wav,575,0,normal,False,unknown,90
+Cross_s1_p1cycle_092.wav,576,0,normal,False,unknown,92
+Cross_s1_p1cycle_094.wav,577,0,normal,False,unknown,94
+Cross_s1_p1cycle_096.wav,578,0,normal,False,unknown,96
+Cross_s1_p1cycle_098.wav,579,0,normal,False,unknown,98
+Cross_s1_p1cycle_100.wav,580,0,normal,False,unknown,100
+Cross_s1_p1cycle_102.wav,581,0,normal,False,unknown,102
+Cross_s1_p1cycle_104.wav,582,0,normal,False,unknown,104
+Cross_s1_p1cycle_108.wav,583,0,normal,False,unknown,108
+Cross_s1_p1cycle_112.wav,584,0,normal,False,unknown,112
+Cross_s1_p1cycle_120.wav,585,0,normal,False,unknown,120
+Cross_s1_p1cycle_122.wav,586,0,normal,False,unknown,122
+Cross_s1_p1cycle_124.wav,587,0,normal,False,unknown,124
+Cross_s1_p1cycle_126.wav,588,0,normal,False,unknown,126
+Cross_s1_p1cycle_128.wav,589,0,normal,False,unknown,128
+Cross_s1_p1cycle_130.wav,590,0,normal,False,unknown,130
+Cross_s1_p1cycle_132.wav,591,0,normal,False,unknown,132
+Cross_s1_p1cycle_134.wav,592,0,normal,False,unknown,134
+Cross_s1_p1cycle_136.wav,593,0,normal,False,unknown,136
+Cross_s1_p1cycle_138.wav,594,0,normal,False,unknown,138
+Cross_s1_p1cycle_140.wav,595,0,normal,False,unknown,140
+Cross_s1_p1cycle_142.wav,596,0,normal,False,unknown,142
+Cross_s1_p1cycle_144.wav,597,0,normal,False,unknown,144
+Cross_s1_p1cycle_146.wav,598,0,normal,False,unknown,146
+Cross_s1_p1cycle_148.wav,599,0,normal,False,unknown,148
+Cross_s1_p1cycle_150.wav,600,0,normal,False,unknown,150
+Cross_s1_p1cycle_152.wav,601,0,normal,False,unknown,152
+Cross_s1_p1cycle_154.wav,602,0,normal,False,unknown,154
+Cross_s1_p1cycle_156.wav,603,0,normal,False,unknown,156
+Cross_s1_p1cycle_158.wav,604,0,normal,False,unknown,158
+Cross_s1_p1cycle_162.wav,605,0,normal,False,unknown,162
+Cross_s1_p1cycle_164.wav,606,0,normal,False,unknown,164
+Cross_s1_p1cycle_166.wav,607,0,normal,False,unknown,166
+Cross_s1_p1cycle_168.wav,608,0,normal,False,unknown,168
+Cross_s1_p1cycle_170.wav,609,0,normal,False,unknown,170
+Cross_s1_p1cycle_172.wav,610,0,normal,False,unknown,172
+Cross_s1_p1cycle_174.wav,611,0,normal,False,unknown,174
+Cross_s1_p1cycle_176.wav,612,0,normal,False,unknown,176
+Cross_s1_p1cycle_180.wav,613,0,normal,False,unknown,180
+Cross_s1_p1cycle_182.wav,614,0,normal,False,unknown,182
+Cross_s1_p1cycle_184.wav,615,0,normal,False,unknown,184
+Cross_s1_p5cycle_003.wav,616,0,normal,False,unknown,3
+Cross_s1_p5cycle_005.wav,617,0,normal,False,unknown,5
+Cross_s1_p5cycle_007.wav,618,0,normal,False,unknown,7
+Cross_s1_p5cycle_009.wav,619,0,normal,False,unknown,9
+Cross_s1_p5cycle_011.wav,620,0,normal,False,unknown,11
+Cross_s1_p5cycle_013.wav,621,0,normal,False,unknown,13
+Cross_s1_p5cycle_015.wav,622,0,normal,False,unknown,15
+Cross_s1_p5cycle_017.wav,623,0,normal,False,unknown,17
+Cross_s1_p5cycle_019.wav,624,0,normal,False,unknown,19
+Cross_s1_p5cycle_021.wav,625,0,normal,False,unknown,21
+Cross_s1_p5cycle_023.wav,626,0,normal,False,unknown,23
+Cross_s1_p5cycle_025.wav,627,0,normal,False,unknown,25
+Cross_s1_p5cycle_027.wav,628,0,normal,False,unknown,27
+Cross_s1_p5cycle_029.wav,629,0,normal,False,unknown,29
+Cross_s1_p5cycle_031.wav,630,0,normal,False,unknown,31
+Cross_s1_p5cycle_037.wav,631,0,normal,False,unknown,37
+Cross_s1_p5cycle_039.wav,632,0,normal,False,unknown,39
+Cross_s1_p5cycle_041.wav,633,0,normal,False,unknown,41
+Cross_s1_p5cycle_043.wav,634,0,normal,False,unknown,43
+Cross_s1_p5cycle_045.wav,635,0,normal,False,unknown,45
+Cross_s1_p5cycle_047.wav,636,0,normal,False,unknown,47
+Cross_s1_p5cycle_049.wav,637,0,normal,False,unknown,49
+Cross_s1_p5cycle_051.wav,638,0,normal,False,unknown,51
+Cross_s1_p5cycle_053.wav,639,0,normal,False,unknown,53
+Cross_s1_p5cycle_055.wav,640,0,normal,False,unknown,55
+Cross_s1_p5cycle_057.wav,641,0,normal,False,unknown,57
+Cross_s1_p5cycle_059.wav,642,0,normal,False,unknown,59
+Cross_s1_p5cycle_061.wav,643,0,normal,False,unknown,61
+Cross_s1_p5cycle_063.wav,644,0,normal,False,unknown,63
+Cross_s1_p5cycle_065.wav,645,0,normal,False,unknown,65
+Cross_s1_p5cycle_067.wav,646,0,normal,False,unknown,67
+Cross_s1_p5cycle_069.wav,647,0,normal,False,unknown,69
+Cross_s1_p5cycle_071.wav,648,0,normal,False,unknown,71
+Cross_s1_p5cycle_073.wav,649,0,normal,False,unknown,73
+Cross_s1_p5cycle_075.wav,650,0,normal,False,unknown,75
+Cross_s1_p5cycle_077.wav,651,0,normal,False,unknown,77
+Cross_s1_p5cycle_079.wav,652,0,normal,False,unknown,79
+Cross_s1_p5cycle_081.wav,653,0,normal,False,unknown,81
+Cross_s1_p5cycle_083.wav,654,0,normal,False,unknown,83
+Cross_s1_p5cycle_085.wav,655,0,normal,False,unknown,85
+Cross_s1_p5cycle_087.wav,656,0,normal,False,unknown,87
+Cross_s1_p5cycle_089.wav,657,0,normal,False,unknown,89
+Cross_s1_p5cycle_091.wav,658,0,normal,False,unknown,91
+Cross_s1_p5cycle_095.wav,659,0,normal,False,unknown,95
+Cross_s1_p5cycle_097.wav,660,0,normal,False,unknown,97
+Cross_s1_p5cycle_099.wav,661,0,normal,False,unknown,99
+Cross_s1_p5cycle_101.wav,662,0,normal,False,unknown,101
+Cross_s1_p5cycle_103.wav,663,0,normal,False,unknown,103
+Cross_s1_p5cycle_105.wav,664,0,normal,False,unknown,105
+Cross_s1_p5cycle_107.wav,665,0,normal,False,unknown,107
+Cross_s1_p5cycle_109.wav,666,0,normal,False,unknown,109
+Cross_s1_p5cycle_111.wav,667,0,normal,False,unknown,111
+Cross_s1_p5cycle_113.wav,668,0,normal,False,unknown,113
+Cross_s1_p5cycle_120.wav,669,0,normal,False,unknown,120
+Cross_s1_p5cycle_122.wav,670,0,normal,False,unknown,122
+Cross_s1_p5cycle_124.wav,671,0,normal,False,unknown,124
+Cross_s1_p5cycle_126.wav,672,0,normal,False,unknown,126
+Cross_s1_p5cycle_128.wav,673,0,normal,False,unknown,128
+Cross_s1_p5cycle_130.wav,674,0,normal,False,unknown,130
+Cross_s1_p5cycle_132.wav,675,0,normal,False,unknown,132
+Cross_s1_p5cycle_134.wav,676,0,normal,False,unknown,134
+Cross_s1_p5cycle_136.wav,677,0,normal,False,unknown,136
+Cross_s1_p5cycle_138.wav,678,0,normal,False,unknown,138
+Cross_s1_p5cycle_140.wav,679,0,normal,False,unknown,140
+Cross_s1_p5cycle_142.wav,680,0,normal,False,unknown,142
+Cross_s1_p5cycle_144.wav,681,0,normal,False,unknown,144
+Cross_s1_p5cycle_146.wav,682,0,normal,False,unknown,146
+Cross_s1_p5cycle_148.wav,683,0,normal,False,unknown,148
+Cross_s1_p5cycle_152.wav,684,0,normal,False,unknown,152
+Cross_s1_p5cycle_154.wav,685,0,normal,False,unknown,154
+Cross_s1_p5cycle_156.wav,686,0,normal,False,unknown,156
+Cross_s1_p5cycle_158.wav,687,0,normal,False,unknown,158
+Cross_s1_p5cycle_160.wav,688,0,normal,False,unknown,160
+Cross_s1_p5cycle_162.wav,689,0,normal,False,unknown,162
+Cross_s1_p5cycle_164.wav,690,0,normal,False,unknown,164
+Cross_s1_p5cycle_166.wav,691,0,normal,False,unknown,166
+Cross_s1_p5cycle_168.wav,692,0,normal,False,unknown,168
+Cross_s1_p5cycle_170.wav,693,0,normal,False,unknown,170
+Cross_s1_p5cycle_172.wav,694,0,normal,False,unknown,172
+Cross_s1_p5cycle_174.wav,695,0,normal,False,unknown,174
+Cross_s1_p5cycle_176.wav,696,0,normal,False,unknown,176
+Cross_s1_p5cycle_178.wav,697,0,normal,False,unknown,178
+Cross_s1_p5cycle_180.wav,698,0,normal,False,unknown,180
+Cross_s1_p5cycle_182.wav,699,0,normal,False,unknown,182
+Cross_s1_p5cycle_184.wav,700,0,normal,False,unknown,184
+Cross_s1_p5cycle_186.wav,701,0,normal,False,unknown,186
+Cross_s1_p5cycle_188.wav,702,0,normal,False,unknown,188
+Cross_s1_p5cycle_192.wav,703,0,normal,False,unknown,192
+Cross_s1_p5cycle_194.wav,704,0,normal,False,unknown,194
+Cross_s1_p5cycle_196.wav,705,0,normal,False,unknown,196
+Cross_s1_p5cycle_198.wav,706,0,normal,False,unknown,198
+Cross_s1_p5cycle_200.wav,707,0,normal,False,unknown,200
+Cross_s1_p5cycle_202.wav,708,0,normal,False,unknown,202
+Cross_s1_p5cycle_204.wav,709,0,normal,False,unknown,204
+Cross_s2_p1cycle_004.wav,710,0,normal,False,unknown,4
+Cross_s2_p1cycle_006.wav,711,0,normal,False,unknown,6
+Cross_s2_p1cycle_008.wav,712,0,normal,False,unknown,8
+Cross_s2_p1cycle_010.wav,713,0,normal,False,unknown,10
+Cross_s2_p1cycle_012.wav,714,0,normal,False,unknown,12
+Cross_s2_p1cycle_014.wav,715,0,normal,False,unknown,14
+Cross_s2_p1cycle_016.wav,716,0,normal,False,unknown,16
+Cross_s2_p1cycle_018.wav,717,0,normal,False,unknown,18
+Cross_s2_p1cycle_020.wav,718,0,normal,False,unknown,20
+Cross_s2_p1cycle_022.wav,719,0,normal,False,unknown,22
+Cross_s2_p1cycle_024.wav,720,0,normal,False,unknown,24
+Cross_s2_p1cycle_026.wav,721,0,normal,False,unknown,26
+Cross_s2_p1cycle_028.wav,722,0,normal,False,unknown,28
+Cross_s2_p1cycle_030.wav,723,0,normal,False,unknown,30
+Cross_s2_p1cycle_032.wav,724,0,normal,False,unknown,32
+Cross_s2_p1cycle_034.wav,725,0,normal,False,unknown,34
+Cross_s2_p1cycle_036.wav,726,0,normal,False,unknown,36
+Cross_s2_p1cycle_038.wav,727,0,normal,False,unknown,38
+Cross_s2_p1cycle_040.wav,728,0,normal,False,unknown,40
+Cross_s2_p1cycle_042.wav,729,0,normal,False,unknown,42
+Cross_s2_p1cycle_044.wav,730,0,normal,False,unknown,44
+Cross_s2_p1cycle_046.wav,731,0,normal,False,unknown,46
+Cross_s2_p1cycle_048.wav,732,0,normal,False,unknown,48
+Cross_s2_p1cycle_052.wav,733,0,normal,False,unknown,52
+Cross_s2_p1cycle_054.wav,734,0,normal,False,unknown,54
+Cross_s2_p1cycle_056.wav,735,0,normal,False,unknown,56
+Cross_s2_p1cycle_058.wav,736,0,normal,False,unknown,58
+Cross_s2_p1cycle_060.wav,737,0,normal,False,unknown,60
+Cross_s2_p1cycle_062.wav,738,0,normal,False,unknown,62
+Cross_s2_p1cycle_064.wav,739,0,normal,False,unknown,64
+Cross_s2_p1cycle_066.wav,740,0,normal,False,unknown,66
+Cross_s2_p1cycle_068.wav,741,0,normal,False,unknown,68
+Cross_s2_p1cycle_070.wav,742,0,normal,False,unknown,70
+Cross_s2_p1cycle_072.wav,743,0,normal,False,unknown,72
+Cross_s2_p1cycle_074.wav,744,0,normal,False,unknown,74
+Cross_s2_p1cycle_076.wav,745,0,normal,False,unknown,76
+Cross_s2_p1cycle_078.wav,746,0,normal,False,unknown,78
+Cross_s2_p1cycle_080.wav,747,0,normal,False,unknown,80
+Cross_s2_p1cycle_082.wav,748,0,normal,False,unknown,82
+Cross_s2_p1cycle_084.wav,749,0,normal,False,unknown,84
+Cross_s2_p1cycle_086.wav,750,0,normal,False,unknown,86
+Cross_s2_p1cycle_088.wav,751,0,normal,False,unknown,88
+Cross_s2_p1cycle_090.wav,752,0,normal,False,unknown,90
+Cross_s2_p1cycle_092.wav,753,0,normal,False,unknown,92
+Cross_s2_p1cycle_098.wav,754,0,normal,False,unknown,98
+Cross_s2_p1cycle_100.wav,755,0,normal,False,unknown,100
+Cross_s2_p1cycle_102.wav,756,0,normal,False,unknown,102
+Cross_s2_p1cycle_104.wav,757,0,normal,False,unknown,104
+Cross_s2_p1cycle_106.wav,758,0,normal,False,unknown,106
+Cross_s2_p1cycle_108.wav,759,0,normal,False,unknown,108
+Cross_s2_p1cycle_110.wav,760,0,normal,False,unknown,110
+Cross_s2_p1cycle_112.wav,761,0,normal,False,unknown,112
+Cross_s2_p1cycle_114.wav,762,0,normal,False,unknown,114
+Cross_s2_p1cycle_118.wav,763,0,normal,False,unknown,118
+Cross_s2_p1cycle_120.wav,764,0,normal,False,unknown,120
+Cross_s2_p1cycle_122.wav,765,0,normal,False,unknown,122
+Cross_s2_p1cycle_124.wav,766,0,normal,False,unknown,124
+Cross_s2_p1cycle_126.wav,767,0,normal,False,unknown,126
+Cross_s2_p1cycle_128.wav,768,0,normal,False,unknown,128
+Cross_s2_p1cycle_130.wav,769,0,normal,False,unknown,130
+Cross_s2_p1cycle_132.wav,770,0,normal,False,unknown,132
+Cross_s2_p1cycle_134.wav,771,0,normal,False,unknown,134
+Cross_s2_p1cycle_136.wav,772,0,normal,False,unknown,136
+Cross_s2_p1cycle_138.wav,773,0,normal,False,unknown,138
+Cross_s2_p1cycle_142.wav,774,0,normal,False,unknown,142
+Cross_s2_p1cycle_144.wav,775,0,normal,False,unknown,144
+Cross_s2_p1cycle_146.wav,776,0,normal,False,unknown,146
+Cross_s2_p1cycle_148.wav,777,0,normal,False,unknown,148
+Cross_s2_p1cycle_150.wav,778,0,normal,False,unknown,150
+Cross_s2_p1cycle_152.wav,779,0,normal,False,unknown,152
+Cross_s2_p1cycle_154.wav,780,0,normal,False,unknown,154
+Cross_s2_p1cycle_156.wav,781,0,normal,False,unknown,156
+Cross_s2_p1cycle_158.wav,782,0,normal,False,unknown,158
+Cross_s2_p1cycle_160.wav,783,0,normal,False,unknown,160
+Cross_s2_p1cycle_162.wav,784,0,normal,False,unknown,162
+Cross_s2_p1cycle_164.wav,785,0,normal,False,unknown,164
+Cross_s2_p1cycle_166.wav,786,0,normal,False,unknown,166
+Cross_s2_p1cycle_170.wav,787,0,normal,False,unknown,170
+Cross_s2_p1cycle_172.wav,788,0,normal,False,unknown,172
+Cross_s2_p1cycle_174.wav,789,0,normal,False,unknown,174
+Cross_s2_p1cycle_176.wav,790,0,normal,False,unknown,176
+Cross_s2_p1cycle_178.wav,791,0,normal,False,unknown,178
+Cross_s2_p1cycle_182.wav,792,0,normal,False,unknown,182
+Cross_s2_p1cycle_184.wav,793,0,normal,False,unknown,184
+Cross_s2_p1cycle_186.wav,794,0,normal,False,unknown,186
+Cross_s2_p1cycle_188.wav,795,0,normal,False,unknown,188
+Cross_s2_p1cycle_190.wav,796,0,normal,False,unknown,190
+s2_p6_mangoutcycle_003.wav,797,0,normal,False,unknown,3
+s2_p6_mangoutcycle_005.wav,798,0,normal,False,unknown,5
+s2_p6_mangoutcycle_007.wav,799,0,normal,False,unknown,7
+s2_p6_mangoutcycle_009.wav,800,0,normal,False,unknown,9
+s2_p6_mangoutcycle_011.wav,801,0,normal,False,unknown,11
+s2_p6_mangoutcycle_013.wav,802,0,normal,False,unknown,13
+s2_p6_mangoutcycle_015.wav,803,0,normal,False,unknown,15
+s2_p6_mangoutcycle_017.wav,804,0,normal,False,unknown,17
+s2_p6_mangoutcycle_019.wav,805,0,normal,False,unknown,19
+s2_p6_mangoutcycle_021.wav,806,0,normal,False,unknown,21
+s2_p6_mangoutcycle_023.wav,807,0,normal,False,unknown,23
+s2_p6_mangoutcycle_025.wav,808,0,normal,False,unknown,25
+s2_p6_mangoutcycle_027.wav,809,0,normal,False,unknown,27
+s2_p6_mangoutcycle_029.wav,810,0,normal,False,unknown,29
+s2_p6_mangoutcycle_031.wav,811,0,normal,False,unknown,31
+s2_p6_mangoutcycle_033.wav,812,0,normal,False,unknown,33
+s2_p6_mangoutcycle_035.wav,813,0,normal,False,unknown,35
+s2_p6_mangoutcycle_037.wav,814,0,normal,False,unknown,37
+s2_p6_mangoutcycle_039.wav,815,0,normal,False,unknown,39
+s2_p6_mangoutcycle_041.wav,816,0,normal,False,unknown,41
+s2_p6_mangoutcycle_043.wav,817,0,normal,False,unknown,43
+s2_p6_mangoutcycle_045.wav,818,0,normal,False,unknown,45
+s2_p6_mangoutcycle_047.wav,819,0,normal,False,unknown,47
+s2_p6_mangoutcycle_049.wav,820,0,normal,False,unknown,49
+s2_p6_mangoutcycle_051.wav,821,0,normal,False,unknown,51
+s2_p6_mangoutcycle_053.wav,822,0,normal,False,unknown,53
+s2_p6_mangoutcycle_055.wav,823,0,normal,False,unknown,55
+s2_p6_mangoutcycle_057.wav,824,0,normal,False,unknown,57
+s2_p6_mangoutcycle_059.wav,825,0,normal,False,unknown,59
+s2_p6_mangoutcycle_061.wav,826,0,normal,False,unknown,61
+s2_p6_mangoutcycle_063.wav,827,0,normal,False,unknown,63
+s2_p6_mangoutcycle_065.wav,828,0,normal,False,unknown,65
+s2_p6_mangoutcycle_067.wav,829,0,normal,False,unknown,67
+s2_p6_mangoutcycle_069.wav,830,0,normal,False,unknown,69
+s2_p6_mangoutcycle_073.wav,831,0,normal,False,unknown,73
+s2_p6_mangoutcycle_075.wav,832,0,normal,False,unknown,75
+s2_p6_mangoutcycle_077.wav,833,0,normal,False,unknown,77
+s2_p6_mangoutcycle_079.wav,834,0,normal,False,unknown,79
+s2_p6_mangoutcycle_081.wav,835,0,normal,False,unknown,81
+s2_p6_mangoutcycle_083.wav,836,0,normal,False,unknown,83
+s2_p6_mangoutcycle_085.wav,837,0,normal,False,unknown,85
+s2_p6_mangoutcycle_087.wav,838,0,normal,False,unknown,87
+s2_p6_mangoutcycle_089.wav,839,0,normal,False,unknown,89
+s2_p6_mangoutcycle_091.wav,840,0,normal,False,unknown,91
+s2_p6_mangoutcycle_093.wav,841,0,normal,False,unknown,93
+s2_p6_mangoutcycle_095.wav,842,0,normal,False,unknown,95
+s2_p6_mangoutcycle_097.wav,843,0,normal,False,unknown,97
+s2_p6_mangoutcycle_099.wav,844,0,normal,False,unknown,99
+s2_p6_mangoutcycle_101.wav,845,0,normal,False,unknown,101
+s2_p6_mangoutcycle_108.wav,846,0,normal,False,unknown,108
+s2_p6_mangoutcycle_110.wav,847,0,normal,False,unknown,110
+s2_p6_mangoutcycle_112.wav,848,0,normal,False,unknown,112
+s2_p6_mangoutcycle_114.wav,849,0,normal,False,unknown,114
+s2_p6_mangoutcycle_116.wav,850,0,normal,False,unknown,116
+s2_p6_mangoutcycle_118.wav,851,0,normal,False,unknown,118
+s2_p6_mangoutcycle_120.wav,852,0,normal,False,unknown,120
+s2_p6_mangoutcycle_122.wav,853,0,normal,False,unknown,122
+s2_p6_mangoutcycle_124.wav,854,0,normal,False,unknown,124
+s2_p6_mangoutcycle_126.wav,855,0,normal,False,unknown,126
+s2_p6_mangoutcycle_128.wav,856,0,normal,False,unknown,128
+s2_p6_mangoutcycle_130.wav,857,0,normal,False,unknown,130
+s2_p6_mangoutcycle_132.wav,858,0,normal,False,unknown,132
+s2_p6_mangoutcycle_134.wav,859,0,normal,False,unknown,134
+s2_p6_mangoutcycle_136.wav,860,0,normal,False,unknown,136
+s2_p6_mangoutcycle_138.wav,861,0,normal,False,unknown,138
+s2_p6_mangoutcycle_140.wav,862,0,normal,False,unknown,140
+s2_p6_mangoutcycle_142.wav,863,0,normal,False,unknown,142
+s2_p6_mangoutcycle_144.wav,864,0,normal,False,unknown,144
+s2_p6_mangoutcycle_146.wav,865,0,normal,False,unknown,146
+s2_p6_mangoutcycle_148.wav,866,0,normal,False,unknown,148
+s2_p6_mangoutcycle_150.wav,867,0,normal,False,unknown,150
+s2_p6_mangoutcycle_152.wav,868,0,normal,False,unknown,152
+s2_p6_mangoutcycle_154.wav,869,0,normal,False,unknown,154
+s2_p6_mangoutcycle_156.wav,870,0,normal,False,unknown,156
+s2_p6_mangoutcycle_158.wav,871,0,normal,False,unknown,158
+s2_p6_mangoutcycle_160.wav,872,0,normal,False,unknown,160
+s2_p6_mangoutcycle_162.wav,873,0,normal,False,unknown,162
+s2_p6_mangoutcycle_164.wav,874,0,normal,False,unknown,164
+s2_p6_mangoutcycle_166.wav,875,0,normal,False,unknown,166
+s2_p6_mangoutcycle_168.wav,876,0,normal,False,unknown,168
+s2_p6_mangoutcycle_170.wav,877,0,normal,False,unknown,170
+s2_p6_mangoutcycle_172.wav,878,0,normal,False,unknown,172
+s2_p6_mangoutcycle_174.wav,879,0,normal,False,unknown,174
+s2_p6_mangoutcycle_178.wav,880,0,normal,False,unknown,178
+s2_p6_mangoutcycle_180.wav,881,0,normal,False,unknown,180
+s2_p6_mangoutcycle_182.wav,882,0,normal,False,unknown,182
+s2_p6_mangoutcycle_184.wav,883,0,normal,False,unknown,184
+s2_p6_mangoutcycle_186.wav,884,0,normal,False,unknown,186
+s2_p6_mangoutcycle_188.wav,885,0,normal,False,unknown,188
+s2_p6_mangoutcycle_190.wav,886,0,normal,False,unknown,190
+s2_p6_mangoutcycle_192.wav,887,0,normal,False,unknown,192
+s2_p6_mangoutcycle_194.wav,888,0,normal,False,unknown,194
+s2_p6_mangoutcycle_196.wav,889,0,normal,False,unknown,196
+s2_p6_mangoutcycle_198.wav,890,0,normal,False,unknown,198
+s2_p6_mangoutcycle_200.wav,891,0,normal,False,unknown,200
+s2_p6_mangoutcycle_202.wav,892,0,normal,False,unknown,202
+s2_p6_mangoutcycle_204.wav,893,0,normal,False,unknown,204
+s2_p6_mangoutcycle_206.wav,894,0,normal,False,unknown,206
+P5_6_2S1JoiningH4000_cycle_003.wav,895,0,normal,False,6_2S1JoiningH4000,3
+P5_6_2S1JoiningH4000_cycle_005.wav,896,0,normal,False,6_2S1JoiningH4000,5
+P5_6_2S1JoiningH4000_cycle_007.wav,897,0,normal,False,6_2S1JoiningH4000,7
+P5_6_2S1JoiningH4000_cycle_009.wav,898,0,normal,False,6_2S1JoiningH4000,9
+P5_6_2S1JoiningH4000_cycle_011.wav,899,0,normal,False,6_2S1JoiningH4000,11
+P5_6_2S1JoiningH4000_cycle_013.wav,900,0,normal,False,6_2S1JoiningH4000,13
+P5_6_2S1JoiningH4000_cycle_015.wav,901,0,normal,False,6_2S1JoiningH4000,15
+P5_6_2S1JoiningH4000_cycle_017.wav,902,0,normal,False,6_2S1JoiningH4000,17
+P5_6_2S1JoiningH4000_cycle_021.wav,903,0,normal,False,6_2S1JoiningH4000,21
+P5_6_2S1JoiningH4000_cycle_023.wav,904,0,normal,False,6_2S1JoiningH4000,23
+P5_6_2S1JoiningH4000_cycle_025.wav,905,0,normal,False,6_2S1JoiningH4000,25
+P5_6_2S1JoiningH4000_cycle_027.wav,906,0,normal,False,6_2S1JoiningH4000,27
+P5_6_2S1JoiningH4000_cycle_029.wav,907,0,normal,False,6_2S1JoiningH4000,29
+P5_6_2S1JoiningH4000_cycle_031.wav,908,0,normal,False,6_2S1JoiningH4000,31
+P5_6_2S1JoiningH4000_cycle_033.wav,909,0,normal,False,6_2S1JoiningH4000,33
+P5_6_2S1JoiningH4000_cycle_035.wav,910,0,normal,False,6_2S1JoiningH4000,35
+P5_6_2S1JoiningH4000_cycle_039.wav,911,0,normal,False,6_2S1JoiningH4000,39
+P5_6_2S1JoiningH4000_cycle_041.wav,912,0,normal,False,6_2S1JoiningH4000,41
+P5_6_2S1JoiningH4000_cycle_043.wav,913,0,normal,False,6_2S1JoiningH4000,43
+P5_6_2S1JoiningH4000_cycle_045.wav,914,0,normal,False,6_2S1JoiningH4000,45
+P5_6_2S1JoiningH4000_cycle_047.wav,915,0,normal,False,6_2S1JoiningH4000,47
+P5_6_2S1JoiningH4000_cycle_049.wav,916,0,normal,False,6_2S1JoiningH4000,49
+P5_6_2S1JoiningH4000_cycle_051.wav,917,0,normal,False,6_2S1JoiningH4000,51
+P5_6_2S1JoiningH4000_cycle_053.wav,918,0,normal,False,6_2S1JoiningH4000,53
+P5_6_2S1JoiningH4000_cycle_056.wav,919,0,normal,False,6_2S1JoiningH4000,56
+P5_6_2S1JoiningH4000_cycle_058.wav,920,0,normal,False,6_2S1JoiningH4000,58
+P5_6_2S1JoiningH4000_cycle_060.wav,921,0,normal,False,6_2S1JoiningH4000,60
+P5_6_2S1JoiningH4000_cycle_062.wav,922,0,normal,False,6_2S1JoiningH4000,62
+P5_6_2S1JoiningH4000_cycle_064.wav,923,0,normal,False,6_2S1JoiningH4000,64
+P5_6_2S1JoiningH4000_cycle_066.wav,924,0,normal,False,6_2S1JoiningH4000,66
+P5_6_2S1JoiningH4000_cycle_068.wav,925,0,normal,False,6_2S1JoiningH4000,68
+P5_6_2S1JoiningH4000_cycle_070.wav,926,0,normal,False,6_2S1JoiningH4000,70
+P5_6_2S1JoiningH4000_cycle_072.wav,927,0,normal,False,6_2S1JoiningH4000,72
+P5_6_2S1JoiningH4000_cycle_076.wav,928,0,normal,False,6_2S1JoiningH4000,76
+P5_6_2S1JoiningH4000_cycle_079.wav,929,0,normal,False,6_2S1JoiningH4000,79
+P5_6_2S1JoiningH4000_cycle_082.wav,930,0,normal,False,6_2S1JoiningH4000,82
+P5_6_2S1JoiningH4000_cycle_084.wav,931,0,normal,False,6_2S1JoiningH4000,84
+P5_6_2S1JoiningH4000_cycle_086.wav,932,0,normal,False,6_2S1JoiningH4000,86
+P5_6_2S1JoiningH4000_cycle_088.wav,933,0,normal,False,6_2S1JoiningH4000,88
+P5_6_2S1JoiningH4000_cycle_090.wav,934,0,normal,False,6_2S1JoiningH4000,90
+P5_6_2S1JoiningH4000_cycle_092.wav,935,0,normal,False,6_2S1JoiningH4000,92
+P5_6_2S1JoiningH4000_cycle_094.wav,936,0,normal,False,6_2S1JoiningH4000,94
+P5_6_2S1JoiningH4000_cycle_096.wav,937,0,normal,False,6_2S1JoiningH4000,96
+P5_6_2S1JoiningH4000_cycle_098.wav,938,0,normal,False,6_2S1JoiningH4000,98
+P5_6_2S1JoiningH4000_cycle_100.wav,939,0,normal,False,6_2S1JoiningH4000,100
+P5_6_2S1JoiningH4000_cycle_102.wav,940,0,normal,False,6_2S1JoiningH4000,102
+P5_6_2S1JoiningH4000_cycle_104.wav,941,0,normal,False,6_2S1JoiningH4000,104
+P5_6_2S1JoiningH4000_cycle_106.wav,942,0,normal,False,6_2S1JoiningH4000,106
+P5_6_2S1JoiningH4000_cycle_108.wav,943,0,normal,False,6_2S1JoiningH4000,108
+P5_6_2S1JoiningH4000_cycle_110.wav,944,0,normal,False,6_2S1JoiningH4000,110
+P5_6_2S1JoiningH4000_cycle_112.wav,945,0,normal,False,6_2S1JoiningH4000,112
+P5_6_2S1JoiningH4000_cycle_114.wav,946,0,normal,False,6_2S1JoiningH4000,114
+P5_6_2S1JoiningH4000_cycle_116.wav,947,0,normal,False,6_2S1JoiningH4000,116
+P5_6_2S1JoiningH4000_cycle_118.wav,948,0,normal,False,6_2S1JoiningH4000,118
+P5_6_2S1JoiningH4000_cycle_120.wav,949,0,normal,False,6_2S1JoiningH4000,120
+P5_6_2S1JoiningH4000_cycle_122.wav,950,0,normal,False,6_2S1JoiningH4000,122
+P5_6_2S1JoiningH4000_cycle_124.wav,951,0,normal,False,6_2S1JoiningH4000,124
+P5_6_2S1JoiningH4000_cycle_126.wav,952,0,normal,False,6_2S1JoiningH4000,126
+P5_6_2S1JoiningH4000_cycle_128.wav,953,0,normal,False,6_2S1JoiningH4000,128
+P5_6_2S1JoiningH4000_cycle_130.wav,954,0,normal,False,6_2S1JoiningH4000,130
+P5_6_2S1JoiningH4000_cycle_132.wav,955,0,normal,False,6_2S1JoiningH4000,132
+P5_6_2S1JoiningH4000_cycle_134.wav,956,0,normal,False,6_2S1JoiningH4000,134
+P5_6_2S1JoiningH4000_cycle_136.wav,957,0,normal,False,6_2S1JoiningH4000,136
+P5_6_2S1JoiningH4000_cycle_138.wav,958,0,normal,False,6_2S1JoiningH4000,138
+P5_6_2S1JoiningH4000_cycle_140.wav,959,0,normal,False,6_2S1JoiningH4000,140
+P5_6_2S1JoiningH4000_cycle_142.wav,960,0,normal,False,6_2S1JoiningH4000,142
+P5_6_2S1JoiningH4000_cycle_144.wav,961,0,normal,False,6_2S1JoiningH4000,144
+P5_6_2S1JoiningH4000_cycle_146.wav,962,0,normal,False,6_2S1JoiningH4000,146
+P5_6_2S1JoiningH4000_cycle_150.wav,963,0,normal,False,6_2S1JoiningH4000,150
+P5_6_2S1JoiningH4000_cycle_152.wav,964,0,normal,False,6_2S1JoiningH4000,152
+P5_6_2S1JoiningH4000_cycle_154.wav,965,0,normal,False,6_2S1JoiningH4000,154
+P5_6_2S1JoiningH4000_cycle_156.wav,966,0,normal,False,6_2S1JoiningH4000,156
+P5_6_2S1JoiningH4000_cycle_158.wav,967,0,normal,False,6_2S1JoiningH4000,158
+P5_6_2S1JoiningH4000_cycle_160.wav,968,0,normal,False,6_2S1JoiningH4000,160
+P5_6_2S1JoiningH4000_cycle_162.wav,969,0,normal,False,6_2S1JoiningH4000,162
+P5_6_2S1JoiningH4000_cycle_164.wav,970,0,normal,False,6_2S1JoiningH4000,164
+P5_6_2S1JoiningH4000_cycle_166.wav,971,0,normal,False,6_2S1JoiningH4000,166
+P5_6_2S1JoiningH4000_cycle_168.wav,972,0,normal,False,6_2S1JoiningH4000,168
+P5_6_2S1JoiningH4000_cycle_170.wav,973,0,normal,False,6_2S1JoiningH4000,170
+P5_6_2S1JoiningH4000_cycle_172.wav,974,0,normal,False,6_2S1JoiningH4000,172
+P5_6_2S1JoiningH4000_cycle_174.wav,975,0,normal,False,6_2S1JoiningH4000,174
+P5_6_2S1JoiningH4000_cycle_176.wav,976,0,normal,False,6_2S1JoiningH4000,176
+P5_6_2S1JoiningH4000_cycle_178.wav,977,0,normal,False,6_2S1JoiningH4000,178
+P5_6_2S1JoiningH4000_cycle_180.wav,978,0,normal,False,6_2S1JoiningH4000,180
+P5_6_2S1JoiningH4000_cycle_182.wav,979,0,normal,False,6_2S1JoiningH4000,182
+P5_6_2S1JoiningH4000_cycle_184.wav,980,0,normal,False,6_2S1JoiningH4000,184
+P5_6_2S1JoiningH4000_cycle_186.wav,981,0,normal,False,6_2S1JoiningH4000,186
+P5_6_2S1JoiningH4000_cycle_188.wav,982,0,normal,False,6_2S1JoiningH4000,188
+P5_6_2S1JoiningH4000_cycle_190.wav,983,0,normal,False,6_2S1JoiningH4000,190
+P5_6_2S1JoiningH4000_cycle_192.wav,984,0,normal,False,6_2S1JoiningH4000,192
+P5_6_2S1JoiningH4000_cycle_194.wav,985,0,normal,False,6_2S1JoiningH4000,194
+P5_6_2S1JoiningH4000_cycle_196.wav,986,0,normal,False,6_2S1JoiningH4000,196
+P5_6_2S1JoiningH4000_cycle_198.wav,987,0,normal,False,6_2S1JoiningH4000,198
+P5_6_2S1JoiningH4000_cycle_200.wav,988,0,normal,False,6_2S1JoiningH4000,200
+P5_6_2S1JoiningH4000_cycle_202.wav,989,0,normal,False,6_2S1JoiningH4000,202
+P5_6_2S1JoiningH4000_cycle_204.wav,990,0,normal,False,6_2S1JoiningH4000,204
+P5_6_2S1JoiningH4000_cycle_206.wav,991,0,normal,False,6_2S1JoiningH4000,206
+P5_6_2S1JoiningH4000_cycle_208.wav,992,0,normal,False,6_2S1JoiningH4000,208
+P5_6_2S1JoiningH4000_cycle_210.wav,993,0,normal,False,6_2S1JoiningH4000,210
+P5_6_2S1JoiningH4000_cycle_212.wav,994,0,normal,False,6_2S1JoiningH4000,212
+P5_6_2S1JoiningH4000_cycle_214.wav,995,0,normal,False,6_2S1JoiningH4000,214
+l6s9.95s10.1_P2S2Girders2H2300_cycle_064.wav,996,0,normal,False,P2S2Girders2H2300,64
+l6s9.95s10.1_P2S2Girders2H2300_cycle_066.wav,997,0,normal,False,P2S2Girders2H2300,66
+l6s9.95s10.1_P2S2Girders2H2300_cycle_068.wav,998,0,normal,False,P2S2Girders2H2300,68
+l6s9.95s10.1_P2S2Girders2H2300_cycle_070.wav,999,0,normal,False,P2S2Girders2H2300,70
+l6s9.95s10.1_P2S2Girders2H2300_cycle_072.wav,1000,0,normal,False,P2S2Girders2H2300,72
+l6s9.95s10.1_P2S2Girders2H2300_cycle_074.wav,1001,0,normal,False,P2S2Girders2H2300,74
+l6s9.95s10.1_P2S2Girders2H2300_cycle_076.wav,1002,0,normal,False,P2S2Girders2H2300,76
+l6s9.95s10.1_P2S2Girders2H2300_cycle_078.wav,1003,0,normal,False,P2S2Girders2H2300,78
+l6s9.95s10.1_P2S2Girders2H2300_cycle_080.wav,1004,0,normal,False,P2S2Girders2H2300,80
+l6s9.95s10.1_P2S2Girders2H2300_cycle_082.wav,1005,0,normal,False,P2S2Girders2H2300,82
+l6s9.95s10.1_P2S2Girders2H2300_cycle_084.wav,1006,0,normal,False,P2S2Girders2H2300,84
+l6s9.95s10.1_P2S2Girders2H2300_cycle_086.wav,1007,0,normal,False,P2S2Girders2H2300,86
+l6s9.95s10.1_P2S2Girders2H2300_cycle_088.wav,1008,0,normal,False,P2S2Girders2H2300,88
+l6s9.95s10.1_P2S2Girders2H2300_cycle_090.wav,1009,0,normal,False,P2S2Girders2H2300,90
+l6s9.95s10.1_P2S2Girders2H2300_cycle_092.wav,1010,0,normal,False,P2S2Girders2H2300,92
+l6s9.95s10.1_P2S2Girders2H2300_cycle_094.wav,1011,0,normal,False,P2S2Girders2H2300,94
+l6s9.95s10.1_P2S2Girders2H2300_cycle_096.wav,1012,0,normal,False,P2S2Girders2H2300,96
+l6s9.95s10.1_P2S2Girders2H2300_cycle_098.wav,1013,0,normal,False,P2S2Girders2H2300,98
+l6s9.95s10.1_P2S2Girders2H2300_cycle_100.wav,1014,0,normal,False,P2S2Girders2H2300,100
+l6s9.95s10.1_P2S2Girders2H2300_cycle_102.wav,1015,0,normal,False,P2S2Girders2H2300,102
+l6s9.95s10.1_P2S2Girders2H2300_cycle_104.wav,1016,0,normal,False,P2S2Girders2H2300,104
+l6s9.95s10.1_P2S2Girders2H2300_cycle_106.wav,1017,0,normal,False,P2S2Girders2H2300,106
+l6s9.95s10.1_P2S2Girders2H2300_cycle_108.wav,1018,0,normal,False,P2S2Girders2H2300,108
+l6s9.95s10.1_P2S2Girders2H2300_cycle_110.wav,1019,0,normal,False,P2S2Girders2H2300,110
+l6s9.95s10.1_P2S2Girders2H2300_cycle_112.wav,1020,0,normal,False,P2S2Girders2H2300,112
+l6s9.95s10.1_P2S2Girders2H2300_cycle_114.wav,1021,0,normal,False,P2S2Girders2H2300,114
+l6s9.95s10.1_P2S2Girders2H2300_cycle_116.wav,1022,0,normal,False,P2S2Girders2H2300,116
+l6s9.95s10.1_P2S2Girders2H2300_cycle_118.wav,1023,0,normal,False,P2S2Girders2H2300,118
+l6s9.95s10.1_P2S2Girders2H2300_cycle_120.wav,1024,0,normal,False,P2S2Girders2H2300,120
+l6s9.95s10.1_P2S2Girders2H2300_cycle_122.wav,1025,0,normal,False,P2S2Girders2H2300,122
+l6s9.95s10.1_P2S2Girders2H2300_cycle_124.wav,1026,0,normal,False,P2S2Girders2H2300,124
+l6s9.95s10.1_P2S2Girders2H2300_cycle_126.wav,1027,0,normal,False,P2S2Girders2H2300,126
+l6s9.95s10.1_P2S2Girders2H2300_cycle_128.wav,1028,0,normal,False,P2S2Girders2H2300,128
+l6s9.95s10.1_P2S2Girders2H2300_cycle_130.wav,1029,0,normal,False,P2S2Girders2H2300,130
+l6s9.95s10.1_P2S2Girders2H2300_cycle_132.wav,1030,0,normal,False,P2S2Girders2H2300,132
+l6s9.95s10.1_P2S2Girders2H2300_cycle_134.wav,1031,0,normal,False,P2S2Girders2H2300,134
+l6s9.95s10.1_P2S2Girders2H2300_cycle_136.wav,1032,0,normal,False,P2S2Girders2H2300,136
+l6s9.95s10.1_P2S2Girders2H2300_cycle_138.wav,1033,0,normal,False,P2S2Girders2H2300,138
+l6s9.95s10.1_P2S2Girders2H2300_cycle_140.wav,1034,0,normal,False,P2S2Girders2H2300,140
+l6s9.95s10.1_P2S2Girders2H2300_cycle_142.wav,1035,0,normal,False,P2S2Girders2H2300,142
+l6s9.95s10.1_P2S2Girders2H2300_cycle_144.wav,1036,0,normal,False,P2S2Girders2H2300,144
+l6s9.95s10.1_P2S2Girders2H2300_cycle_146.wav,1037,0,normal,False,P2S2Girders2H2300,146
+l6s9.95s10.1_P2S2Girders2H2300_cycle_148.wav,1038,0,normal,False,P2S2Girders2H2300,148
+l6s9.95s10.1_P2S2Girders2H2300_cycle_150.wav,1039,0,normal,False,P2S2Girders2H2300,150
+l6s9.95s10.1_P2S2Girders2H2300_cycle_152.wav,1040,0,normal,False,P2S2Girders2H2300,152
+l6s9.95s10.1_P2S2Girders2H2300_cycle_154.wav,1041,0,normal,False,P2S2Girders2H2300,154
+l6s9.95s10.1_P2S2Girders2H2300_cycle_156.wav,1042,0,normal,False,P2S2Girders2H2300,156
+l6s9.95s10.1_P2S2Girders2H2300_cycle_158.wav,1043,0,normal,False,P2S2Girders2H2300,158
+l6s9.95s10.1_P2S2Girders2H2300_cycle_160.wav,1044,0,normal,False,P2S2Girders2H2300,160
+l6s9.95s10.1_P2S2Girders2H2300_cycle_162.wav,1045,0,normal,False,P2S2Girders2H2300,162
+l6s9.95s10.1_P2S2Girders2H2300_cycle_164.wav,1046,0,normal,False,P2S2Girders2H2300,164
+l6s9.95s10.1_P2S2Girders2H2300_cycle_166.wav,1047,0,normal,False,P2S2Girders2H2300,166
+l6s9.95s10.1_P2S2Girders2H2300_cycle_168.wav,1048,0,normal,False,P2S2Girders2H2300,168
+l6s9.95s10.1_P2S2Girders2H2300_cycle_170.wav,1049,0,normal,False,P2S2Girders2H2300,170
+l6s9.95s10.1_P2S2Girders2H2300_cycle_174.wav,1050,0,normal,False,P2S2Girders2H2300,174
+l6s9.95s10.1_P2S2Girders2H2300_cycle_176.wav,1051,0,normal,False,P2S2Girders2H2300,176
+l6s9.95s10.1_P2S2Girders2H2300_cycle_178.wav,1052,0,normal,False,P2S2Girders2H2300,178
+l7s10.55_P2S2Girders2H2300_cycle_002.wav,1053,0,normal,False,P2S2Girders2H2300,2
+l7s10.55_P2S2Girders2H2300_cycle_004.wav,1054,0,normal,False,P2S2Girders2H2300,4
+l7s10.55_P2S2Girders2H2300_cycle_006.wav,1055,0,normal,False,P2S2Girders2H2300,6
+l7s10.55_P2S2Girders2H2300_cycle_008.wav,1056,0,normal,False,P2S2Girders2H2300,8
+l7s10.55_P2S2Girders2H2300_cycle_010.wav,1057,0,normal,False,P2S2Girders2H2300,10
+l7s10.55_P2S2Girders2H2300_cycle_012.wav,1058,0,normal,False,P2S2Girders2H2300,12
+l7s10.55_P2S2Girders2H2300_cycle_014.wav,1059,0,normal,False,P2S2Girders2H2300,14
+l7s10.55_P2S2Girders2H2300_cycle_016.wav,1060,0,normal,False,P2S2Girders2H2300,16
+l7s10.55_P2S2Girders2H2300_cycle_018.wav,1061,0,normal,False,P2S2Girders2H2300,18
+l7s10.55_P2S2Girders2H2300_cycle_020.wav,1062,0,normal,False,P2S2Girders2H2300,20
+l7s10.55_P2S2Girders2H2300_cycle_022.wav,1063,0,normal,False,P2S2Girders2H2300,22
+l7s10.55_P2S2Girders2H2300_cycle_024.wav,1064,0,normal,False,P2S2Girders2H2300,24
+l7s10.55_P2S2Girders2H2300_cycle_026.wav,1065,0,normal,False,P2S2Girders2H2300,26
+l7s10.55_P2S2Girders2H2300_cycle_028.wav,1066,0,normal,False,P2S2Girders2H2300,28
+l7s10.55_P2S2Girders2H2300_cycle_030.wav,1067,0,normal,False,P2S2Girders2H2300,30
+l7s10.55_P2S2Girders2H2300_cycle_032.wav,1068,0,normal,False,P2S2Girders2H2300,32
+l7s10.55_P2S2Girders2H2300_cycle_034.wav,1069,0,normal,False,P2S2Girders2H2300,34
+l7s10.55_P2S2Girders2H2300_cycle_036.wav,1070,0,normal,False,P2S2Girders2H2300,36
+l7s10.55_P2S2Girders2H2300_cycle_038.wav,1071,0,normal,False,P2S2Girders2H2300,38
+l7s10.55_P2S2Girders2H2300_cycle_040.wav,1072,0,normal,False,P2S2Girders2H2300,40
+l7s10.55_P2S2Girders2H2300_cycle_042.wav,1073,0,normal,False,P2S2Girders2H2300,42
+l7s10.55_P2S2Girders2H2300_cycle_044.wav,1074,0,normal,False,P2S2Girders2H2300,44
+l7s10.55_P2S2Girders2H2300_cycle_046.wav,1075,0,normal,False,P2S2Girders2H2300,46
+l7s10.55_P2S2Girders2H2300_cycle_048.wav,1076,0,normal,False,P2S2Girders2H2300,48
+l7s10.55_P2S2Girders2H2300_cycle_050.wav,1077,0,normal,False,P2S2Girders2H2300,50
+l7s10.55_P2S2Girders2H2300_cycle_052.wav,1078,0,normal,False,P2S2Girders2H2300,52
+l7s10.55_P2S2Girders2H2300_cycle_054.wav,1079,0,normal,False,P2S2Girders2H2300,54
+l7s10.55_P2S2Girders2H2300_cycle_056.wav,1080,0,normal,False,P2S2Girders2H2300,56
+l7s10.55_P2S2Girders2H2300_cycle_058.wav,1081,0,normal,False,P2S2Girders2H2300,58
+l7s10.55_P2S2Girders2H2300_cycle_060.wav,1082,0,normal,False,P2S2Girders2H2300,60
+l7s10.55_P2S2Girders2H2300_cycle_062.wav,1083,0,normal,False,P2S2Girders2H2300,62
+Inc_P5_6_2S1JoiningH4000_cycle_002.wav,1084,0,normal,False,P5_6_2S1JoiningH4000,2
+Inc_P5_6_2S1JoiningH4000_cycle_004.wav,1085,0,normal,False,P5_6_2S1JoiningH4000,4
+Inc_P5_6_2S1JoiningH4000_cycle_006.wav,1086,0,normal,False,P5_6_2S1JoiningH4000,6
+Inc_P5_6_2S1JoiningH4000_cycle_008.wav,1087,0,normal,False,P5_6_2S1JoiningH4000,8
+Inc_P5_6_2S1JoiningH4000_cycle_010.wav,1088,0,normal,False,P5_6_2S1JoiningH4000,10
+Inc_P5_6_2S1JoiningH4000_cycle_012.wav,1089,0,normal,False,P5_6_2S1JoiningH4000,12
+Inc_P5_6_2S1JoiningH4000_cycle_014.wav,1090,0,normal,False,P5_6_2S1JoiningH4000,14
+Inc_P5_6_2S1JoiningH4000_cycle_016.wav,1091,0,normal,False,P5_6_2S1JoiningH4000,16
+Inc_P5_6_2S1JoiningH4000_cycle_020.wav,1092,0,normal,False,P5_6_2S1JoiningH4000,20
+Inc_P5_6_2S1JoiningH4000_cycle_022.wav,1093,0,normal,False,P5_6_2S1JoiningH4000,22
+Inc_P5_6_2S1JoiningH4000_cycle_024.wav,1094,0,normal,False,P5_6_2S1JoiningH4000,24
+Inc_P5_6_2S1JoiningH4000_cycle_026.wav,1095,0,normal,False,P5_6_2S1JoiningH4000,26
+Inc_P5_6_2S1JoiningH4000_cycle_028.wav,1096,0,normal,False,P5_6_2S1JoiningH4000,28
+Inc_P5_6_2S1JoiningH4000_cycle_032.wav,1097,0,normal,False,P5_6_2S1JoiningH4000,32
+Inc_P5_6_2S1JoiningH4000_cycle_034.wav,1098,0,normal,False,P5_6_2S1JoiningH4000,34
+Inc_P5_6_2S1JoiningH4000_cycle_038.wav,1099,0,normal,False,P5_6_2S1JoiningH4000,38
+Inc_P5_6_2S1JoiningH4000_cycle_040.wav,1100,0,normal,False,P5_6_2S1JoiningH4000,40
+Inc_P5_6_2S1JoiningH4000_cycle_042.wav,1101,0,normal,False,P5_6_2S1JoiningH4000,42
+Inc_P5_6_2S1JoiningH4000_cycle_044.wav,1102,0,normal,False,P5_6_2S1JoiningH4000,44
+Inc_P5_6_2S1JoiningH4000_cycle_046.wav,1103,0,normal,False,P5_6_2S1JoiningH4000,46
+Inc_P5_6_2S1JoiningH4000_cycle_048.wav,1104,0,normal,False,P5_6_2S1JoiningH4000,48
+Inc_P5_6_2S1JoiningH4000_cycle_050.wav,1105,0,normal,False,P5_6_2S1JoiningH4000,50
+Inc_P5_6_2S1JoiningH4000_cycle_052.wav,1106,0,normal,False,P5_6_2S1JoiningH4000,52
+Inc_P5_6_2S1JoiningH4000_cycle_054.wav,1107,0,normal,False,P5_6_2S1JoiningH4000,54
+Inc_P5_6_2S1JoiningH4000_cycle_056.wav,1108,0,normal,False,P5_6_2S1JoiningH4000,56
+Inc_P5_6_2S1JoiningH4000_cycle_058.wav,1109,0,normal,False,P5_6_2S1JoiningH4000,58
+Inc_P5_6_2S1JoiningH4000_cycle_060.wav,1110,0,normal,False,P5_6_2S1JoiningH4000,60
+Inc_P5_6_2S1JoiningH4000_cycle_062.wav,1111,0,normal,False,P5_6_2S1JoiningH4000,62
+Inc_P5_6_2S1JoiningH4000_cycle_064.wav,1112,0,normal,False,P5_6_2S1JoiningH4000,64
+Inc_P5_6_2S1JoiningH4000_cycle_066.wav,1113,0,normal,False,P5_6_2S1JoiningH4000,66
+Inc_P5_6_2S1JoiningH4000_cycle_068.wav,1114,0,normal,False,P5_6_2S1JoiningH4000,68
+Inc_P5_6_2S1JoiningH4000_cycle_070.wav,1115,0,normal,False,P5_6_2S1JoiningH4000,70
+Inc_P5_6_2S1JoiningH4000_cycle_072.wav,1116,0,normal,False,P5_6_2S1JoiningH4000,72
+Inc_P5_6_2S1JoiningH4000_cycle_076.wav,1117,0,normal,False,P5_6_2S1JoiningH4000,76
+Inc_P5_6_2S1JoiningH4000_cycle_080.wav,1118,0,normal,False,P5_6_2S1JoiningH4000,80
+Inc_P5_6_2S1JoiningH4000_cycle_082.wav,1119,0,normal,False,P5_6_2S1JoiningH4000,82
+Inc_P5_6_2S1JoiningH4000_cycle_084.wav,1120,0,normal,False,P5_6_2S1JoiningH4000,84
+Inc_P5_6_2S1JoiningH4000_cycle_086.wav,1121,0,normal,False,P5_6_2S1JoiningH4000,86
+Inc_P5_6_2S1JoiningH4000_cycle_088.wav,1122,0,normal,False,P5_6_2S1JoiningH4000,88
+Inc_P5_6_2S1JoiningH4000_cycle_090.wav,1123,0,normal,False,P5_6_2S1JoiningH4000,90
+Inc_P5_6_2S1JoiningH4000_cycle_092.wav,1124,0,normal,False,P5_6_2S1JoiningH4000,92
+Inc_P5_6_2S1JoiningH4000_cycle_094.wav,1125,0,normal,False,P5_6_2S1JoiningH4000,94
+Inc_P5_6_2S1JoiningH4000_cycle_096.wav,1126,0,normal,False,P5_6_2S1JoiningH4000,96
+Inc_P5_6_2S1JoiningH4000_cycle_098.wav,1127,0,normal,False,P5_6_2S1JoiningH4000,98
+Inc_P5_6_2S1JoiningH4000_cycle_100.wav,1128,0,normal,False,P5_6_2S1JoiningH4000,100
+Inc_P5_6_2S1JoiningH4000_cycle_102.wav,1129,0,normal,False,P5_6_2S1JoiningH4000,102
+Inc_P5_6_2S1JoiningH4000_cycle_104.wav,1130,0,normal,False,P5_6_2S1JoiningH4000,104
+Inc_P5_6_2S1JoiningH4000_cycle_106.wav,1131,0,normal,False,P5_6_2S1JoiningH4000,106
+Inc_P5_6_2S1JoiningH4000_cycle_108.wav,1132,0,normal,False,P5_6_2S1JoiningH4000,108
+Inc_P5_6_2S1JoiningH4000_cycle_110.wav,1133,0,normal,False,P5_6_2S1JoiningH4000,110
+Inc_P5_6_2S1JoiningH4000_cycle_112.wav,1134,0,normal,False,P5_6_2S1JoiningH4000,112
+Inc_P5_6_2S1JoiningH4000_cycle_114.wav,1135,0,normal,False,P5_6_2S1JoiningH4000,114
+Inc_P5_6_2S1JoiningH4000_cycle_116.wav,1136,0,normal,False,P5_6_2S1JoiningH4000,116
+Inc_P5_6_2S1JoiningH4000_cycle_118.wav,1137,0,normal,False,P5_6_2S1JoiningH4000,118
+Inc_P5_6_2S1JoiningH4000_cycle_120.wav,1138,0,normal,False,P5_6_2S1JoiningH4000,120
+Inc_P5_6_2S1JoiningH4000_cycle_122.wav,1139,0,normal,False,P5_6_2S1JoiningH4000,122
+Inc_P5_6_2S1JoiningH4000_cycle_124.wav,1140,0,normal,False,P5_6_2S1JoiningH4000,124
+Inc_P5_6_2S1JoiningH4000_cycle_126.wav,1141,0,normal,False,P5_6_2S1JoiningH4000,126
+Inc_P5_6_2S1JoiningH4000_cycle_128.wav,1142,0,normal,False,P5_6_2S1JoiningH4000,128
+Inc_P5_6_2S1JoiningH4000_cycle_130.wav,1143,0,normal,False,P5_6_2S1JoiningH4000,130
+Inc_P5_6_2S1JoiningH4000_cycle_132.wav,1144,0,normal,False,P5_6_2S1JoiningH4000,132
+Inc_P5_6_2S1JoiningH4000_cycle_134.wav,1145,0,normal,False,P5_6_2S1JoiningH4000,134
+Inc_P5_6_2S1JoiningH4000_cycle_136.wav,1146,0,normal,False,P5_6_2S1JoiningH4000,136
+Inc_P5_6_2S1JoiningH4000_cycle_140.wav,1147,0,normal,False,P5_6_2S1JoiningH4000,140
+Inc_P5_6_2S1JoiningH4000_cycle_142.wav,1148,0,normal,False,P5_6_2S1JoiningH4000,142
+Inc_P5_6_2S1JoiningH4000_cycle_144.wav,1149,0,normal,False,P5_6_2S1JoiningH4000,144
+Inc_P5_6_2S1JoiningH4000_cycle_146.wav,1150,0,normal,False,P5_6_2S1JoiningH4000,146
+Inc_P5_6_2S1JoiningH4000_cycle_148.wav,1151,0,normal,False,P5_6_2S1JoiningH4000,148
+Inc_P5_6_2S1JoiningH4000_cycle_150.wav,1152,0,normal,False,P5_6_2S1JoiningH4000,150
+Inc_P5_6_2S1JoiningH4000_cycle_152.wav,1153,0,normal,False,P5_6_2S1JoiningH4000,152
+Inc_P5_6_2S1JoiningH4000_cycle_154.wav,1154,0,normal,False,P5_6_2S1JoiningH4000,154
+Inc_P5_6_2S1JoiningH4000_cycle_156.wav,1155,0,normal,False,P5_6_2S1JoiningH4000,156
+Inc_P5_6_2S1JoiningH4000_cycle_158.wav,1156,0,normal,False,P5_6_2S1JoiningH4000,158
+Inc_P5_6_2S1JoiningH4000_cycle_160.wav,1157,0,normal,False,P5_6_2S1JoiningH4000,160
+Inc_P5_6_2S1JoiningH4000_cycle_162.wav,1158,0,normal,False,P5_6_2S1JoiningH4000,162
+Inc_P5_6_2S1JoiningH4000_cycle_164.wav,1159,0,normal,False,P5_6_2S1JoiningH4000,164
+Inc_P5_6_2S1JoiningH4000_cycle_166.wav,1160,0,normal,False,P5_6_2S1JoiningH4000,166
+Inc_P5_6_2S1JoiningH4000_cycle_168.wav,1161,0,normal,False,P5_6_2S1JoiningH4000,168
+Inc_P5_6_2S1JoiningH4000_cycle_170.wav,1162,0,normal,False,P5_6_2S1JoiningH4000,170
+Inc_P5_6_2S1JoiningH4000_cycle_172.wav,1163,0,normal,False,P5_6_2S1JoiningH4000,172
+Inc_P5_6_2S1JoiningH4000_cycle_174.wav,1164,0,normal,False,P5_6_2S1JoiningH4000,174
+Inc_P5_6_2S1JoiningH4000_cycle_176.wav,1165,0,normal,False,P5_6_2S1JoiningH4000,176
+Inc_P5_6_2S1JoiningH4000_cycle_178.wav,1166,0,normal,False,P5_6_2S1JoiningH4000,178
+Inc_P5_6_2S1JoiningH4000_cycle_180.wav,1167,0,normal,False,P5_6_2S1JoiningH4000,180
+Inc_P5_6_2S1JoiningH4000_cycle_182.wav,1168,0,normal,False,P5_6_2S1JoiningH4000,182
+Inc_P5_6_2S1JoiningH4000_cycle_184.wav,1169,0,normal,False,P5_6_2S1JoiningH4000,184
+Inc_P5_6_2S1JoiningH4000_cycle_186.wav,1170,0,normal,False,P5_6_2S1JoiningH4000,186
+Inc_P5_6_2S1JoiningH4000_cycle_188.wav,1171,0,normal,False,P5_6_2S1JoiningH4000,188
+Inc_P5_6_2S1JoiningH4000_cycle_190.wav,1172,0,normal,False,P5_6_2S1JoiningH4000,190
+Inc_P5_6_2S1JoiningH4000_cycle_192.wav,1173,0,normal,False,P5_6_2S1JoiningH4000,192
+Inc_P5_6_2S1JoiningH4000_cycle_194.wav,1174,0,normal,False,P5_6_2S1JoiningH4000,194
+Inc_P5_6_2S1JoiningH4000_cycle_196.wav,1175,0,normal,False,P5_6_2S1JoiningH4000,196
+Inc_P5_6_2S1JoiningH4000_cycle_198.wav,1176,0,normal,False,P5_6_2S1JoiningH4000,198
+Inc_P5_6_2S1JoiningH4000_cycle_200.wav,1177,0,normal,False,P5_6_2S1JoiningH4000,200
+Inc_P5_6_2S1JoiningH4000_cycle_202.wav,1178,0,normal,False,P5_6_2S1JoiningH4000,202
+Inc_P5_6_2S1JoiningH4000_cycle_204.wav,1179,0,normal,False,P5_6_2S1JoiningH4000,204
+Inc_P5_6_2S1JoiningH4000_cycle_208.wav,1180,0,normal,False,P5_6_2S1JoiningH4000,208
+Inc_P5_6_2S1JoiningH4000_cycle_210.wav,1181,0,normal,False,P5_6_2S1JoiningH4000,210
+Inc_P5_6_2S1JoiningH4000_cycle_212.wav,1182,0,normal,False,P5_6_2S1JoiningH4000,212
+Inc_P5_6_2S1JoiningH4000_cycle_214.wav,1183,0,normal,False,P5_6_2S1JoiningH4000,214
+Inc_P5_6_2S1JoiningH4000_cycle_218.wav,1184,0,normal,False,P5_6_2S1JoiningH4000,218
+Inc_P5_6_2S1JoiningH4000_cycle_220.wav,1185,0,normal,False,P5_6_2S1JoiningH4000,220
+Inc_P5_6_2S1JoiningH4000_cycle_222.wav,1186,0,normal,False,P5_6_2S1JoiningH4000,222
+Inc_P5_6_2S1JoiningH4000_cycle_224.wav,1187,0,normal,False,P5_6_2S1JoiningH4000,224
+Inc_P5_6_2S1JoiningH4000_cycle_226.wav,1188,0,normal,False,P5_6_2S1JoiningH4000,226
+Inc_P5_6_2S1JoiningH4000_cycle_228.wav,1189,0,normal,False,P5_6_2S1JoiningH4000,228
+Inc_P5_6_2S1JoiningH4000_cycle_230.wav,1190,0,normal,False,P5_6_2S1JoiningH4000,230
+Inc_P5_6_2S1JoiningH4000_cycle_232.wav,1191,0,normal,False,P5_6_2S1JoiningH4000,232
+Inc_P5_6_2S1JoiningH4000_cycle_234.wav,1192,0,normal,False,P5_6_2S1JoiningH4000,234
+Inc_P5_6_2S1JoiningH4000_cycle_236.wav,1193,0,normal,False,P5_6_2S1JoiningH4000,236
+Inc_P5_6_2S1JoiningH4000_cycle_238.wav,1194,0,normal,False,P5_6_2S1JoiningH4000,238
+Inc_P5_6_2S1JoiningH4000_cycle_240.wav,1195,0,normal,False,P5_6_2S1JoiningH4000,240
+Inc_P5_6_2S1JoiningH4000_cycle_242.wav,1196,0,normal,False,P5_6_2S1JoiningH4000,242
+Inc_P5_6_2S1JoiningH4000_cycle_244.wav,1197,0,normal,False,P5_6_2S1JoiningH4000,244
+Inc_P5_6_2S1JoiningH4000_cycle_248.wav,1198,0,normal,False,P5_6_2S1JoiningH4000,248
+Inc_P5_6_2S1JoiningH4000_cycle_250.wav,1199,0,normal,False,P5_6_2S1JoiningH4000,250
+Inc_P5_6_2S1JoiningH4000_cycle_252.wav,1200,0,normal,False,P5_6_2S1JoiningH4000,252
+Inc_P5_6_2S1JoiningH4000_cycle_254.wav,1201,0,normal,False,P5_6_2S1JoiningH4000,254
+Inc_P5_6_2S1JoiningH4000_cycle_256.wav,1202,0,normal,False,P5_6_2S1JoiningH4000,256
+Inc_P5_6_2S1JoiningH4000_cycle_258.wav,1203,0,normal,False,P5_6_2S1JoiningH4000,258
+Inc_P5_6_2S1JoiningH4000_cycle_262.wav,1204,0,normal,False,P5_6_2S1JoiningH4000,262
+Inc_P5_6_2S1JoiningH4000_cycle_266.wav,1205,0,normal,False,P5_6_2S1JoiningH4000,266
+Inc_P5_6_2S1JoiningH4000_cycle_268.wav,1206,0,normal,False,P5_6_2S1JoiningH4000,268
+Inc_P5_6_2S1JoiningH4000_cycle_270.wav,1207,0,normal,False,P5_6_2S1JoiningH4000,270
+Inc_P5_6_2S1JoiningH4000_cycle_272.wav,1208,0,normal,False,P5_6_2S1JoiningH4000,272
+Inc_P5_6_2S1JoiningH4000_cycle_274.wav,1209,0,normal,False,P5_6_2S1JoiningH4000,274
+Inc_P5_6_2S1JoiningH4000_cycle_276.wav,1210,0,normal,False,P5_6_2S1JoiningH4000,276
+Inc_P5_6_2S1JoiningH4000_cycle_278.wav,1211,0,normal,False,P5_6_2S1JoiningH4000,278
+Inc_P5_6_2S1JoiningH4000_cycle_280.wav,1212,0,normal,False,P5_6_2S1JoiningH4000,280
+Inc_P5_6_2S1JoiningH4000_cycle_282.wav,1213,0,normal,False,P5_6_2S1JoiningH4000,282
+Inc_P5_6_2S1JoiningH4000_cycle_284.wav,1214,0,normal,False,P5_6_2S1JoiningH4000,284
+Inc_P5_6_2S1JoiningH4000_cycle_286.wav,1215,0,normal,False,P5_6_2S1JoiningH4000,286
+Inc_P5_6_2S1JoiningH4000_cycle_288.wav,1216,0,normal,False,P5_6_2S1JoiningH4000,288
+Inc_P5_6_2S1JoiningH4000_cycle_290.wav,1217,0,normal,False,P5_6_2S1JoiningH4000,290
+Inc_P5_6_2S1JoiningH4000_cycle_292.wav,1218,0,normal,False,P5_6_2S1JoiningH4000,292
+Inc_P5_6_2S1JoiningH4000_cycle_294.wav,1219,0,normal,False,P5_6_2S1JoiningH4000,294
+Inc_P5_6_2S1JoiningH4000_cycle_296.wav,1220,0,normal,False,P5_6_2S1JoiningH4000,296
+Inc_P5_6_2S1JoiningH4000_cycle_298.wav,1221,0,normal,False,P5_6_2S1JoiningH4000,298
+Inc_P5_6_2S1JoiningH4000_cycle_304.wav,1222,0,normal,False,P5_6_2S1JoiningH4000,304
+Inc_P5_6_2S1JoiningH4000_cycle_306.wav,1223,0,normal,False,P5_6_2S1JoiningH4000,306
+Inc_P5_6_2S1JoiningH4000_cycle_308.wav,1224,0,normal,False,P5_6_2S1JoiningH4000,308
+Inc_P5_6_2S1JoiningH4000_cycle_310.wav,1225,0,normal,False,P5_6_2S1JoiningH4000,310
+Inc_P5_6_2S1JoiningH4000_cycle_312.wav,1226,0,normal,False,P5_6_2S1JoiningH4000,312
+Inc_P5_6_2S1JoiningH4000_cycle_314.wav,1227,0,normal,False,P5_6_2S1JoiningH4000,314
+Inc_P5_6_2S1JoiningH4000_cycle_316.wav,1228,0,normal,False,P5_6_2S1JoiningH4000,316
+Inc_P5_6_2S1JoiningH4000_cycle_318.wav,1229,0,normal,False,P5_6_2S1JoiningH4000,318
+Inc_P5_6_2S1JoiningH4000_cycle_322.wav,1230,0,normal,False,P5_6_2S1JoiningH4000,322
+Inc_P5_6_2S1JoiningH4000_cycle_324.wav,1231,0,normal,False,P5_6_2S1JoiningH4000,324
+Inc_P5_6_2S1JoiningH4000_cycle_326.wav,1232,0,normal,False,P5_6_2S1JoiningH4000,326
+Inc_P5_6_2S1JoiningH4000_cycle_328.wav,1233,0,normal,False,P5_6_2S1JoiningH4000,328
+Inc_P5_6_2S1JoiningH4000_cycle_330.wav,1234,0,normal,False,P5_6_2S1JoiningH4000,330
+Inc_P5_6_2S1JoiningH4000_cycle_332.wav,1235,0,normal,False,P5_6_2S1JoiningH4000,332
+Inc_P5_6_2S1JoiningH4000_cycle_334.wav,1236,0,normal,False,P5_6_2S1JoiningH4000,334
+Inc_P5_6_2S1JoiningH4000_cycle_336.wav,1237,0,normal,False,P5_6_2S1JoiningH4000,336
+Inc_P5_6_2S1JoiningH4000_cycle_338.wav,1238,0,normal,False,P5_6_2S1JoiningH4000,338
+Inc_P5_6_2S1JoiningH4000_cycle_342.wav,1239,0,normal,False,P5_6_2S1JoiningH4000,342
+Inc_P5_6_2S1JoiningH4000_cycle_344.wav,1240,0,normal,False,P5_6_2S1JoiningH4000,344
+Inc_P5_6_2S1JoiningH4000_cycle_346.wav,1241,0,normal,False,P5_6_2S1JoiningH4000,346
+Inc_P5_6_2S1JoiningH4000_cycle_348.wav,1242,0,normal,False,P5_6_2S1JoiningH4000,348
+Inc_P5_6_2S1JoiningH4000_cycle_350.wav,1243,0,normal,False,P5_6_2S1JoiningH4000,350
+Inc_P5_6_2S1JoiningH4000_cycle_356.wav,1244,0,normal,False,P5_6_2S1JoiningH4000,356
+Cross_s1_p4cycle_003.wav,1245,0,normal,False,unknown,3
+Cross_s1_p4cycle_005.wav,1246,0,normal,False,unknown,5
+Cross_s1_p4cycle_007.wav,1247,0,normal,False,unknown,7
+Cross_s1_p4cycle_009.wav,1248,0,normal,False,unknown,9
+Cross_s1_p4cycle_011.wav,1249,0,normal,False,unknown,11
+Cross_s1_p4cycle_013.wav,1250,0,normal,False,unknown,13
+Cross_s1_p4cycle_015.wav,1251,0,normal,False,unknown,15
+Cross_s1_p4cycle_017.wav,1252,0,normal,False,unknown,17
+Cross_s1_p4cycle_019.wav,1253,0,normal,False,unknown,19
+Cross_s1_p4cycle_021.wav,1254,0,normal,False,unknown,21
+Cross_s1_p4cycle_023.wav,1255,0,normal,False,unknown,23
+Cross_s1_p4cycle_025.wav,1256,0,normal,False,unknown,25
+Cross_s1_p4cycle_027.wav,1257,0,normal,False,unknown,27
+Cross_s1_p4cycle_029.wav,1258,0,normal,False,unknown,29
+Cross_s1_p4cycle_031.wav,1259,0,normal,False,unknown,31
+Cross_s1_p4cycle_035.wav,1260,0,normal,False,unknown,35
+Cross_s1_p4cycle_037.wav,1261,0,normal,False,unknown,37
+Cross_s1_p4cycle_039.wav,1262,0,normal,False,unknown,39
+Cross_s1_p4cycle_041.wav,1263,0,normal,False,unknown,41
+Cross_s1_p4cycle_043.wav,1264,0,normal,False,unknown,43
+Cross_s1_p4cycle_045.wav,1265,0,normal,False,unknown,45
+Cross_s1_p4cycle_047.wav,1266,0,normal,False,unknown,47
+Cross_s1_p4cycle_049.wav,1267,0,normal,False,unknown,49
+Cross_s1_p4cycle_051.wav,1268,0,normal,False,unknown,51
+Cross_s1_p4cycle_053.wav,1269,0,normal,False,unknown,53
+Cross_s1_p4cycle_055.wav,1270,0,normal,False,unknown,55
+Cross_s1_p4cycle_057.wav,1271,0,normal,False,unknown,57
+Cross_s1_p4cycle_059.wav,1272,0,normal,False,unknown,59
+Cross_s1_p4cycle_061.wav,1273,0,normal,False,unknown,61
+Cross_s1_p4cycle_063.wav,1274,0,normal,False,unknown,63
+Cross_s1_p4cycle_065.wav,1275,0,normal,False,unknown,65
+Cross_s1_p4cycle_067.wav,1276,0,normal,False,unknown,67
+Cross_s1_p4cycle_069.wav,1277,0,normal,False,unknown,69
+Cross_s1_p4cycle_071.wav,1278,0,normal,False,unknown,71
+Cross_s1_p4cycle_073.wav,1279,0,normal,False,unknown,73
+Cross_s1_p4cycle_075.wav,1280,0,normal,False,unknown,75
+Cross_s1_p4cycle_077.wav,1281,0,normal,False,unknown,77
+Cross_s1_p4cycle_079.wav,1282,0,normal,False,unknown,79
+Cross_s1_p4cycle_081.wav,1283,0,normal,False,unknown,81
+Cross_s1_p4cycle_083.wav,1284,0,normal,False,unknown,83
+Cross_s1_p4cycle_085.wav,1285,0,normal,False,unknown,85
+Cross_s1_p4cycle_087.wav,1286,0,normal,False,unknown,87
+Cross_s1_p4cycle_089.wav,1287,0,normal,False,unknown,89
+Cross_s1_p4cycle_091.wav,1288,0,normal,False,unknown,91
+Cross_s1_p4cycle_093.wav,1289,0,normal,False,unknown,93
+Cross_s1_p4cycle_095.wav,1290,0,normal,False,unknown,95
+Cross_s1_p4cycle_097.wav,1291,0,normal,False,unknown,97
+Cross_s1_p4cycle_099.wav,1292,0,normal,False,unknown,99
+Cross_s1_p4cycle_101.wav,1293,0,normal,False,unknown,101
+Cross_s1_p4cycle_103.wav,1294,0,normal,False,unknown,103
+Cross_s1_p4cycle_105.wav,1295,0,normal,False,unknown,105
+Cross_s1_p4cycle_107.wav,1296,0,normal,False,unknown,107
+Cross_s1_p4cycle_109.wav,1297,0,normal,False,unknown,109
+Cross_s1_p4cycle_111.wav,1298,0,normal,False,unknown,111
+Cross_s1_p4cycle_113.wav,1299,0,normal,False,unknown,113
+Cross_s1_p4cycle_115.wav,1300,0,normal,False,unknown,115
+P1_2S1BottomRing2H1000_cycle_002.wav,1301,0,normal,False,2S1BottomRing2H1000,2
+P1_2S1BottomRing2H1000_cycle_004.wav,1302,0,normal,False,2S1BottomRing2H1000,4
+P1_2S1BottomRing2H1000_cycle_006.wav,1303,0,normal,False,2S1BottomRing2H1000,6
+P1_2S1BottomRing2H1000_cycle_008.wav,1304,0,normal,False,2S1BottomRing2H1000,8
+P1_2S1BottomRing2H1000_cycle_010.wav,1305,0,normal,False,2S1BottomRing2H1000,10
+P1_2S1BottomRing2H1000_cycle_012.wav,1306,0,normal,False,2S1BottomRing2H1000,12
+P1_2S1BottomRing2H1000_cycle_014.wav,1307,0,normal,False,2S1BottomRing2H1000,14
+P1_2S1BottomRing2H1000_cycle_016.wav,1308,0,normal,False,2S1BottomRing2H1000,16
+P1_2S1BottomRing2H1000_cycle_018.wav,1309,0,normal,False,2S1BottomRing2H1000,18
+P1_2S1BottomRing2H1000_cycle_022.wav,1310,0,normal,False,2S1BottomRing2H1000,22
+P1_2S1BottomRing2H1000_cycle_024.wav,1311,0,normal,False,2S1BottomRing2H1000,24
+P1_2S1BottomRing2H1000_cycle_026.wav,1312,0,normal,False,2S1BottomRing2H1000,26
+P1_2S1BottomRing2H1000_cycle_028.wav,1313,0,normal,False,2S1BottomRing2H1000,28
+P1_2S1BottomRing2H1000_cycle_030.wav,1314,0,normal,False,2S1BottomRing2H1000,30
+P1_2S1BottomRing2H1000_cycle_032.wav,1315,0,normal,False,2S1BottomRing2H1000,32
+P1_2S1BottomRing2H1000_cycle_034.wav,1316,0,normal,False,2S1BottomRing2H1000,34
+P1_2S1BottomRing2H1000_cycle_036.wav,1317,0,normal,False,2S1BottomRing2H1000,36
+P1_2S1BottomRing2H1000_cycle_038.wav,1318,0,normal,False,2S1BottomRing2H1000,38
+P1_2S1BottomRing2H1000_cycle_041.wav,1319,0,normal,False,2S1BottomRing2H1000,41
+P1_2S1BottomRing2H1000_cycle_043.wav,1320,0,normal,False,2S1BottomRing2H1000,43
+P1_2S1BottomRing2H1000_cycle_045.wav,1321,0,normal,False,2S1BottomRing2H1000,45
+P1_2S1BottomRing2H1000_cycle_047.wav,1322,0,normal,False,2S1BottomRing2H1000,47
+P1_2S1BottomRing2H1000_cycle_049.wav,1323,0,normal,False,2S1BottomRing2H1000,49
+P1_2S1BottomRing2H1000_cycle_051.wav,1324,0,normal,False,2S1BottomRing2H1000,51
+P1_2S1BottomRing2H1000_cycle_053.wav,1325,0,normal,False,2S1BottomRing2H1000,53
+P1_2S1BottomRing2H1000_cycle_055.wav,1326,0,normal,False,2S1BottomRing2H1000,55
+P1_2S1BottomRing2H1000_cycle_057.wav,1327,0,normal,False,2S1BottomRing2H1000,57
+P1_2S1BottomRing2H1000_cycle_059.wav,1328,0,normal,False,2S1BottomRing2H1000,59
+P1_2S1BottomRing2H1000_cycle_061.wav,1329,0,normal,False,2S1BottomRing2H1000,61
+P1_2S1BottomRing2H1000_cycle_064.wav,1330,0,normal,False,2S1BottomRing2H1000,64
+P1_2S1BottomRing2H1000_cycle_068.wav,1331,0,normal,False,2S1BottomRing2H1000,68
+P1_2S1BottomRing2H1000_cycle_070.wav,1332,0,normal,False,2S1BottomRing2H1000,70
+P1_2S1BottomRing2H1000_cycle_072.wav,1333,0,normal,False,2S1BottomRing2H1000,72
+P1_2S1BottomRing2H1000_cycle_074.wav,1334,0,normal,False,2S1BottomRing2H1000,74
+P1_2S1BottomRing2H1000_cycle_078.wav,1335,0,normal,False,2S1BottomRing2H1000,78
+P1_2S1BottomRing2H1000_cycle_080.wav,1336,0,normal,False,2S1BottomRing2H1000,80
+P1_2S1BottomRing2H1000_cycle_082.wav,1337,0,normal,False,2S1BottomRing2H1000,82
+P1_2S1BottomRing2H1000_cycle_084.wav,1338,0,normal,False,2S1BottomRing2H1000,84
+P1_2S1BottomRing2H1000_cycle_086.wav,1339,0,normal,False,2S1BottomRing2H1000,86
+P1_2S1BottomRing2H1000_cycle_088.wav,1340,0,normal,False,2S1BottomRing2H1000,88
+P1_2S1BottomRing2H1000_cycle_090.wav,1341,0,normal,False,2S1BottomRing2H1000,90
+P1_2S1BottomRing2H1000_cycle_092.wav,1342,0,normal,False,2S1BottomRing2H1000,92
+P1_2S1BottomRing2H1000_cycle_094.wav,1343,0,normal,False,2S1BottomRing2H1000,94
+P1_2S1BottomRing2H1000_cycle_096.wav,1344,0,normal,False,2S1BottomRing2H1000,96
+P1_2S1BottomRing2H1000_cycle_098.wav,1345,0,normal,False,2S1BottomRing2H1000,98
+P1_2S1BottomRing2H1000_cycle_100.wav,1346,0,normal,False,2S1BottomRing2H1000,100
+P1_2S1BottomRing2H1000_cycle_104.wav,1347,0,normal,False,2S1BottomRing2H1000,104
+P1_2S1BottomRing2H1000_cycle_108.wav,1348,0,normal,False,2S1BottomRing2H1000,108
+P1_2S1BottomRing2H1000_cycle_110.wav,1349,0,normal,False,2S1BottomRing2H1000,110
+P1_2S1BottomRing2H1000_cycle_112.wav,1350,0,normal,False,2S1BottomRing2H1000,112
+P1_2S1BottomRing2H1000_cycle_114.wav,1351,0,normal,False,2S1BottomRing2H1000,114
+P1_2S1BottomRing2H1000_cycle_116.wav,1352,0,normal,False,2S1BottomRing2H1000,116
+P1_2S1BottomRing2H1000_cycle_118.wav,1353,0,normal,False,2S1BottomRing2H1000,118
+P1_2S1BottomRing2H1000_cycle_122.wav,1354,0,normal,False,2S1BottomRing2H1000,122
+P1_2S1BottomRing2H1000_cycle_124.wav,1355,0,normal,False,2S1BottomRing2H1000,124
+P1_2S1BottomRing2H1000_cycle_126.wav,1356,0,normal,False,2S1BottomRing2H1000,126
+P1_2S1BottomRing2H1000_cycle_128.wav,1357,0,normal,False,2S1BottomRing2H1000,128
+P1_2S1BottomRing2H1000_cycle_130.wav,1358,0,normal,False,2S1BottomRing2H1000,130
+P1_2S1BottomRing2H1000_cycle_132.wav,1359,0,normal,False,2S1BottomRing2H1000,132
+P1_2S1BottomRing2H1000_cycle_134.wav,1360,0,normal,False,2S1BottomRing2H1000,134
+P1_2S1BottomRing2H1000_cycle_136.wav,1361,0,normal,False,2S1BottomRing2H1000,136
+P1_2S1BottomRing2H1000_cycle_138.wav,1362,0,normal,False,2S1BottomRing2H1000,138
+P1_2S1BottomRing2H1000_cycle_140.wav,1363,0,normal,False,2S1BottomRing2H1000,140
+P1_2S1BottomRing2H1000_cycle_142.wav,1364,0,normal,False,2S1BottomRing2H1000,142
+P1_2S1BottomRing2H1000_cycle_144.wav,1365,0,normal,False,2S1BottomRing2H1000,144
+P1_2S1BottomRing2H1000_cycle_146.wav,1366,0,normal,False,2S1BottomRing2H1000,146
+P1_2S1BottomRing2H1000_cycle_148.wav,1367,0,normal,False,2S1BottomRing2H1000,148
+P1_2S1BottomRing2H1000_cycle_150.wav,1368,0,normal,False,2S1BottomRing2H1000,150
+P1_2S1BottomRing2H1000_cycle_152.wav,1369,0,normal,False,2S1BottomRing2H1000,152
+P1_2S1BottomRing2H1000_cycle_154.wav,1370,0,normal,False,2S1BottomRing2H1000,154
+P1_2S1BottomRing2H1000_cycle_158.wav,1371,0,normal,False,2S1BottomRing2H1000,158
+P1_2S1BottomRing2H1000_cycle_160.wav,1372,0,normal,False,2S1BottomRing2H1000,160
+P1_2S1BottomRing2H1000_cycle_162.wav,1373,0,normal,False,2S1BottomRing2H1000,162
+P1_2S1BottomRing2H1000_cycle_166.wav,1374,0,normal,False,2S1BottomRing2H1000,166
+P1_2S1BottomRing2H1000_cycle_168.wav,1375,0,normal,False,2S1BottomRing2H1000,168
+P1_2S1BottomRing2H1000_cycle_172.wav,1376,0,normal,False,2S1BottomRing2H1000,172
+P1_2S1BottomRing2H1000_cycle_174.wav,1377,0,normal,False,2S1BottomRing2H1000,174
+P1_2S1BottomRing2H1000_cycle_176.wav,1378,0,normal,False,2S1BottomRing2H1000,176
+P1_2S1BottomRing2H1000_cycle_178.wav,1379,0,normal,False,2S1BottomRing2H1000,178
+P1_2S1BottomRing2H1000_cycle_180.wav,1380,0,normal,False,2S1BottomRing2H1000,180
+P1_2S1BottomRing2H1000_cycle_182.wav,1381,0,normal,False,2S1BottomRing2H1000,182
+P1_2S1BottomRing2H1000_cycle_184.wav,1382,0,normal,False,2S1BottomRing2H1000,184
+P1_2S1BottomRing2H1000_cycle_186.wav,1383,0,normal,False,2S1BottomRing2H1000,186
+P1_2S1BottomRing2H1000_cycle_190.wav,1384,0,normal,False,2S1BottomRing2H1000,190
+P1_2S1BottomRing2H1000_cycle_192.wav,1385,0,normal,False,2S1BottomRing2H1000,192
+P1_2S1BottomRing2H1000_cycle_194.wav,1386,0,normal,False,2S1BottomRing2H1000,194
+P1_2S1BottomRing2H1000_cycle_196.wav,1387,0,normal,False,2S1BottomRing2H1000,196
+P1_2S1BottomRing2H1000_cycle_198.wav,1388,0,normal,False,2S1BottomRing2H1000,198
+P1_2S1BottomRing2H1000_cycle_200.wav,1389,0,normal,False,2S1BottomRing2H1000,200
+P1_2S1BottomRing2H1000_cycle_202.wav,1390,0,normal,False,2S1BottomRing2H1000,202
+P1_2S1BottomRing2H1000_cycle_204.wav,1391,0,normal,False,2S1BottomRing2H1000,204
+P1_2S1BottomRing2H1000_cycle_206.wav,1392,0,normal,False,2S1BottomRing2H1000,206
+P1_2S1BottomRing2H1000_cycle_208.wav,1393,0,normal,False,2S1BottomRing2H1000,208
+P1_2S1BottomRing2H1000_cycle_210.wav,1394,0,normal,False,2S1BottomRing2H1000,210
+P1_2S1BottomRing2H1000_cycle_212.wav,1395,0,normal,False,2S1BottomRing2H1000,212
+P1_2S1BottomRing2H1000_cycle_214.wav,1396,0,normal,False,2S1BottomRing2H1000,214
+P1_2S1BottomRing2H1000_cycle_216.wav,1397,0,normal,False,2S1BottomRing2H1000,216
+P1_2S1BottomRing2H1000_cycle_220.wav,1398,0,normal,False,2S1BottomRing2H1000,220
+P5_6_2S1JoiningH1000_cycle_002.wav,1399,0,normal,False,6_2S1JoiningH1000,2
+P5_6_2S1JoiningH1000_cycle_004.wav,1400,0,normal,False,6_2S1JoiningH1000,4
+P5_6_2S1JoiningH1000_cycle_006.wav,1401,0,normal,False,6_2S1JoiningH1000,6
+P5_6_2S1JoiningH1000_cycle_008.wav,1402,0,normal,False,6_2S1JoiningH1000,8
+P5_6_2S1JoiningH1000_cycle_010.wav,1403,0,normal,False,6_2S1JoiningH1000,10
+P5_6_2S1JoiningH1000_cycle_012.wav,1404,0,normal,False,6_2S1JoiningH1000,12
+P5_6_2S1JoiningH1000_cycle_014.wav,1405,0,normal,False,6_2S1JoiningH1000,14
+P5_6_2S1JoiningH1000_cycle_016.wav,1406,0,normal,False,6_2S1JoiningH1000,16
+P5_6_2S1JoiningH1000_cycle_020.wav,1407,0,normal,False,6_2S1JoiningH1000,20
+P5_6_2S1JoiningH1000_cycle_022.wav,1408,0,normal,False,6_2S1JoiningH1000,22
+P5_6_2S1JoiningH1000_cycle_024.wav,1409,0,normal,False,6_2S1JoiningH1000,24
+P5_6_2S1JoiningH1000_cycle_026.wav,1410,0,normal,False,6_2S1JoiningH1000,26
+P5_6_2S1JoiningH1000_cycle_028.wav,1411,0,normal,False,6_2S1JoiningH1000,28
+P5_6_2S1JoiningH1000_cycle_032.wav,1412,0,normal,False,6_2S1JoiningH1000,32
+P5_6_2S1JoiningH1000_cycle_034.wav,1413,0,normal,False,6_2S1JoiningH1000,34
+P5_6_2S1JoiningH1000_cycle_038.wav,1414,0,normal,False,6_2S1JoiningH1000,38
+P5_6_2S1JoiningH1000_cycle_040.wav,1415,0,normal,False,6_2S1JoiningH1000,40
+P5_6_2S1JoiningH1000_cycle_042.wav,1416,0,normal,False,6_2S1JoiningH1000,42
+P5_6_2S1JoiningH1000_cycle_044.wav,1417,0,normal,False,6_2S1JoiningH1000,44
+P5_6_2S1JoiningH1000_cycle_046.wav,1418,0,normal,False,6_2S1JoiningH1000,46
+P5_6_2S1JoiningH1000_cycle_048.wav,1419,0,normal,False,6_2S1JoiningH1000,48
+P5_6_2S1JoiningH1000_cycle_050.wav,1420,0,normal,False,6_2S1JoiningH1000,50
+P5_6_2S1JoiningH1000_cycle_052.wav,1421,0,normal,False,6_2S1JoiningH1000,52
+P5_6_2S1JoiningH1000_cycle_054.wav,1422,0,normal,False,6_2S1JoiningH1000,54
+P5_6_2S1JoiningH1000_cycle_056.wav,1423,0,normal,False,6_2S1JoiningH1000,56
+P5_6_2S1JoiningH1000_cycle_058.wav,1424,0,normal,False,6_2S1JoiningH1000,58
+P5_6_2S1JoiningH1000_cycle_060.wav,1425,0,normal,False,6_2S1JoiningH1000,60
+P5_6_2S1JoiningH1000_cycle_062.wav,1426,0,normal,False,6_2S1JoiningH1000,62
+P5_6_2S1JoiningH1000_cycle_064.wav,1427,0,normal,False,6_2S1JoiningH1000,64
+P5_6_2S1JoiningH1000_cycle_066.wav,1428,0,normal,False,6_2S1JoiningH1000,66
+P5_6_2S1JoiningH1000_cycle_068.wav,1429,0,normal,False,6_2S1JoiningH1000,68
+P5_6_2S1JoiningH1000_cycle_070.wav,1430,0,normal,False,6_2S1JoiningH1000,70
+P5_6_2S1JoiningH1000_cycle_072.wav,1431,0,normal,False,6_2S1JoiningH1000,72
+P5_6_2S1JoiningH1000_cycle_076.wav,1432,0,normal,False,6_2S1JoiningH1000,76
+P5_6_2S1JoiningH1000_cycle_080.wav,1433,0,normal,False,6_2S1JoiningH1000,80
+P5_6_2S1JoiningH1000_cycle_082.wav,1434,0,normal,False,6_2S1JoiningH1000,82
+P5_6_2S1JoiningH1000_cycle_084.wav,1435,0,normal,False,6_2S1JoiningH1000,84
+P5_6_2S1JoiningH1000_cycle_086.wav,1436,0,normal,False,6_2S1JoiningH1000,86
+P5_6_2S1JoiningH1000_cycle_088.wav,1437,0,normal,False,6_2S1JoiningH1000,88
+P5_6_2S1JoiningH1000_cycle_090.wav,1438,0,normal,False,6_2S1JoiningH1000,90
+P5_6_2S1JoiningH1000_cycle_092.wav,1439,0,normal,False,6_2S1JoiningH1000,92
+P5_6_2S1JoiningH1000_cycle_094.wav,1440,0,normal,False,6_2S1JoiningH1000,94
+P5_6_2S1JoiningH1000_cycle_096.wav,1441,0,normal,False,6_2S1JoiningH1000,96
+P5_6_2S1JoiningH1000_cycle_098.wav,1442,0,normal,False,6_2S1JoiningH1000,98
+P5_6_2S1JoiningH1000_cycle_100.wav,1443,0,normal,False,6_2S1JoiningH1000,100
+P5_6_2S1JoiningH1000_cycle_102.wav,1444,0,normal,False,6_2S1JoiningH1000,102
+P5_6_2S1JoiningH1000_cycle_104.wav,1445,0,normal,False,6_2S1JoiningH1000,104
+P5_6_2S1JoiningH1000_cycle_106.wav,1446,0,normal,False,6_2S1JoiningH1000,106
+P5_6_2S1JoiningH1000_cycle_108.wav,1447,0,normal,False,6_2S1JoiningH1000,108
+P5_6_2S1JoiningH1000_cycle_110.wav,1448,0,normal,False,6_2S1JoiningH1000,110
+P5_6_2S1JoiningH1000_cycle_112.wav,1449,0,normal,False,6_2S1JoiningH1000,112
+P5_6_2S1JoiningH1000_cycle_114.wav,1450,0,normal,False,6_2S1JoiningH1000,114
+P5_6_2S1JoiningH1000_cycle_116.wav,1451,0,normal,False,6_2S1JoiningH1000,116
+P5_6_2S1JoiningH1000_cycle_118.wav,1452,0,normal,False,6_2S1JoiningH1000,118
+P5_6_2S1JoiningH1000_cycle_120.wav,1453,0,normal,False,6_2S1JoiningH1000,120
+P5_6_2S1JoiningH1000_cycle_122.wav,1454,0,normal,False,6_2S1JoiningH1000,122
+P5_6_2S1JoiningH1000_cycle_124.wav,1455,0,normal,False,6_2S1JoiningH1000,124
+P5_6_2S1JoiningH1000_cycle_126.wav,1456,0,normal,False,6_2S1JoiningH1000,126
+P5_6_2S1JoiningH1000_cycle_128.wav,1457,0,normal,False,6_2S1JoiningH1000,128
+P5_6_2S1JoiningH1000_cycle_130.wav,1458,0,normal,False,6_2S1JoiningH1000,130
+P5_6_2S1JoiningH1000_cycle_132.wav,1459,0,normal,False,6_2S1JoiningH1000,132
+P5_6_2S1JoiningH1000_cycle_134.wav,1460,0,normal,False,6_2S1JoiningH1000,134
+P5_6_2S1JoiningH1000_cycle_136.wav,1461,0,normal,False,6_2S1JoiningH1000,136
+P5_6_2S1JoiningH1000_cycle_140.wav,1462,0,normal,False,6_2S1JoiningH1000,140
+P5_6_2S1JoiningH1000_cycle_142.wav,1463,0,normal,False,6_2S1JoiningH1000,142
+P5_6_2S1JoiningH1000_cycle_144.wav,1464,0,normal,False,6_2S1JoiningH1000,144
+P5_6_2S1JoiningH1000_cycle_146.wav,1465,0,normal,False,6_2S1JoiningH1000,146
+P5_6_2S1JoiningH1000_cycle_148.wav,1466,0,normal,False,6_2S1JoiningH1000,148
+P5_6_2S1JoiningH1000_cycle_150.wav,1467,0,normal,False,6_2S1JoiningH1000,150
+P5_6_2S1JoiningH1000_cycle_152.wav,1468,0,normal,False,6_2S1JoiningH1000,152
+P5_6_2S1JoiningH1000_cycle_154.wav,1469,0,normal,False,6_2S1JoiningH1000,154
+P5_6_2S1JoiningH1000_cycle_156.wav,1470,0,normal,False,6_2S1JoiningH1000,156
+P5_6_2S1JoiningH1000_cycle_158.wav,1471,0,normal,False,6_2S1JoiningH1000,158
+P5_6_2S1JoiningH1000_cycle_160.wav,1472,0,normal,False,6_2S1JoiningH1000,160
+P5_6_2S1JoiningH1000_cycle_162.wav,1473,0,normal,False,6_2S1JoiningH1000,162
+P5_6_2S1JoiningH1000_cycle_164.wav,1474,0,normal,False,6_2S1JoiningH1000,164
+P5_6_2S1JoiningH1000_cycle_166.wav,1475,0,normal,False,6_2S1JoiningH1000,166
+P5_6_2S1JoiningH1000_cycle_168.wav,1476,0,normal,False,6_2S1JoiningH1000,168
+P5_6_2S1JoiningH1000_cycle_170.wav,1477,0,normal,False,6_2S1JoiningH1000,170
+P5_6_2S1JoiningH1000_cycle_172.wav,1478,0,normal,False,6_2S1JoiningH1000,172
+P5_6_2S1JoiningH1000_cycle_174.wav,1479,0,normal,False,6_2S1JoiningH1000,174
+P5_6_2S1JoiningH1000_cycle_176.wav,1480,0,normal,False,6_2S1JoiningH1000,176
+P5_6_2S1JoiningH1000_cycle_178.wav,1481,0,normal,False,6_2S1JoiningH1000,178
+P5_6_2S1JoiningH1000_cycle_180.wav,1482,0,normal,False,6_2S1JoiningH1000,180
+P5_6_2S1JoiningH1000_cycle_182.wav,1483,0,normal,False,6_2S1JoiningH1000,182
+P5_6_2S1JoiningH1000_cycle_184.wav,1484,0,normal,False,6_2S1JoiningH1000,184
+P5_6_2S1JoiningH1000_cycle_186.wav,1485,0,normal,False,6_2S1JoiningH1000,186
+P5_6_2S1JoiningH1000_cycle_188.wav,1486,0,normal,False,6_2S1JoiningH1000,188
+P5_6_2S1JoiningH1000_cycle_190.wav,1487,0,normal,False,6_2S1JoiningH1000,190
+P5_6_2S1JoiningH1000_cycle_192.wav,1488,0,normal,False,6_2S1JoiningH1000,192
+P5_6_2S1JoiningH1000_cycle_194.wav,1489,0,normal,False,6_2S1JoiningH1000,194
+P5_6_2S1JoiningH1000_cycle_196.wav,1490,0,normal,False,6_2S1JoiningH1000,196
+P5_6_2S1JoiningH1000_cycle_198.wav,1491,0,normal,False,6_2S1JoiningH1000,198
+P5_6_2S1JoiningH1000_cycle_200.wav,1492,0,normal,False,6_2S1JoiningH1000,200
+P5_6_2S1JoiningH1000_cycle_202.wav,1493,0,normal,False,6_2S1JoiningH1000,202
+P5_6_2S1JoiningH1000_cycle_204.wav,1494,0,normal,False,6_2S1JoiningH1000,204
+P5_6_2S1JoiningH1000_cycle_208.wav,1495,0,normal,False,6_2S1JoiningH1000,208
+P5_6_2S1JoiningH1000_cycle_210.wav,1496,0,normal,False,6_2S1JoiningH1000,210
+P5_6_2S1JoiningH1000_cycle_212.wav,1497,0,normal,False,6_2S1JoiningH1000,212
+P5_6_2S1JoiningH1000_cycle_214.wav,1498,0,normal,False,6_2S1JoiningH1000,214
+P5_6_2S1JoiningH1000_cycle_218.wav,1499,0,normal,False,6_2S1JoiningH1000,218
+P5_6_2S1JoiningH1000_cycle_220.wav,1500,0,normal,False,6_2S1JoiningH1000,220
+P5_6_2S1JoiningH1000_cycle_222.wav,1501,0,normal,False,6_2S1JoiningH1000,222
+P5_6_2S1JoiningH1000_cycle_224.wav,1502,0,normal,False,6_2S1JoiningH1000,224
+P5_6_2S1JoiningH1000_cycle_226.wav,1503,0,normal,False,6_2S1JoiningH1000,226
+P5_6_2S1JoiningH1000_cycle_228.wav,1504,0,normal,False,6_2S1JoiningH1000,228
+P5_6_2S1JoiningH1000_cycle_230.wav,1505,0,normal,False,6_2S1JoiningH1000,230
+P5_6_2S1JoiningH1000_cycle_232.wav,1506,0,normal,False,6_2S1JoiningH1000,232
+P5_6_2S1JoiningH1000_cycle_234.wav,1507,0,normal,False,6_2S1JoiningH1000,234
+P5_6_2S1JoiningH1000_cycle_236.wav,1508,0,normal,False,6_2S1JoiningH1000,236
+P5_6_2S1JoiningH1000_cycle_238.wav,1509,0,normal,False,6_2S1JoiningH1000,238
+P5_6_2S1JoiningH1000_cycle_240.wav,1510,0,normal,False,6_2S1JoiningH1000,240
+P5_6_2S1JoiningH1000_cycle_242.wav,1511,0,normal,False,6_2S1JoiningH1000,242
+P5_6_2S1JoiningH1000_cycle_244.wav,1512,0,normal,False,6_2S1JoiningH1000,244
+P5_6_2S1JoiningH1000_cycle_248.wav,1513,0,normal,False,6_2S1JoiningH1000,248
+P5_6_2S1JoiningH1000_cycle_250.wav,1514,0,normal,False,6_2S1JoiningH1000,250
+P5_6_2S1JoiningH1000_cycle_252.wav,1515,0,normal,False,6_2S1JoiningH1000,252
+P5_6_2S1JoiningH1000_cycle_254.wav,1516,0,normal,False,6_2S1JoiningH1000,254
+P5_6_2S1JoiningH1000_cycle_256.wav,1517,0,normal,False,6_2S1JoiningH1000,256
+P5_6_2S1JoiningH1000_cycle_258.wav,1518,0,normal,False,6_2S1JoiningH1000,258
+P5_6_2S1JoiningH1000_cycle_262.wav,1519,0,normal,False,6_2S1JoiningH1000,262
+P5_6_2S1JoiningH1000_cycle_266.wav,1520,0,normal,False,6_2S1JoiningH1000,266
+P5_6_2S1JoiningH1000_cycle_268.wav,1521,0,normal,False,6_2S1JoiningH1000,268
+P5_6_2S1JoiningH1000_cycle_270.wav,1522,0,normal,False,6_2S1JoiningH1000,270
+P5_6_2S1JoiningH1000_cycle_272.wav,1523,0,normal,False,6_2S1JoiningH1000,272
+P5_6_2S1JoiningH1000_cycle_274.wav,1524,0,normal,False,6_2S1JoiningH1000,274
+P5_6_2S1JoiningH1000_cycle_276.wav,1525,0,normal,False,6_2S1JoiningH1000,276
+P5_6_2S1JoiningH1000_cycle_278.wav,1526,0,normal,False,6_2S1JoiningH1000,278
+P5_6_2S1JoiningH1000_cycle_280.wav,1527,0,normal,False,6_2S1JoiningH1000,280
+P5_6_2S1JoiningH1000_cycle_282.wav,1528,0,normal,False,6_2S1JoiningH1000,282
+P5_6_2S1JoiningH1000_cycle_284.wav,1529,0,normal,False,6_2S1JoiningH1000,284
+P5_6_2S1JoiningH1000_cycle_286.wav,1530,0,normal,False,6_2S1JoiningH1000,286
+P5_6_2S1JoiningH1000_cycle_288.wav,1531,0,normal,False,6_2S1JoiningH1000,288
+P5_6_2S1JoiningH1000_cycle_290.wav,1532,0,normal,False,6_2S1JoiningH1000,290
+P5_6_2S1JoiningH1000_cycle_292.wav,1533,0,normal,False,6_2S1JoiningH1000,292
+P5_6_2S1JoiningH1000_cycle_294.wav,1534,0,normal,False,6_2S1JoiningH1000,294
+P5_6_2S1JoiningH1000_cycle_296.wav,1535,0,normal,False,6_2S1JoiningH1000,296
+P5_6_2S1JoiningH1000_cycle_298.wav,1536,0,normal,False,6_2S1JoiningH1000,298
+P5_6_2S1JoiningH1000_cycle_304.wav,1537,0,normal,False,6_2S1JoiningH1000,304
+P5_6_2S1JoiningH1000_cycle_306.wav,1538,0,normal,False,6_2S1JoiningH1000,306
+P5_6_2S1JoiningH1000_cycle_308.wav,1539,0,normal,False,6_2S1JoiningH1000,308
+P5_6_2S1JoiningH1000_cycle_310.wav,1540,0,normal,False,6_2S1JoiningH1000,310
+P5_6_2S1JoiningH1000_cycle_312.wav,1541,0,normal,False,6_2S1JoiningH1000,312
+P5_6_2S1JoiningH1000_cycle_314.wav,1542,0,normal,False,6_2S1JoiningH1000,314
+P5_6_2S1JoiningH1000_cycle_316.wav,1543,0,normal,False,6_2S1JoiningH1000,316
+P5_6_2S1JoiningH1000_cycle_318.wav,1544,0,normal,False,6_2S1JoiningH1000,318
+P5_6_2S1JoiningH1000_cycle_322.wav,1545,0,normal,False,6_2S1JoiningH1000,322
+P5_6_2S1JoiningH1000_cycle_324.wav,1546,0,normal,False,6_2S1JoiningH1000,324
+P5_6_2S1JoiningH1000_cycle_326.wav,1547,0,normal,False,6_2S1JoiningH1000,326
+P5_6_2S1JoiningH1000_cycle_328.wav,1548,0,normal,False,6_2S1JoiningH1000,328
+P5_6_2S1JoiningH1000_cycle_330.wav,1549,0,normal,False,6_2S1JoiningH1000,330
+P5_6_2S1JoiningH1000_cycle_332.wav,1550,0,normal,False,6_2S1JoiningH1000,332
+P5_6_2S1JoiningH1000_cycle_334.wav,1551,0,normal,False,6_2S1JoiningH1000,334
+P5_6_2S1JoiningH1000_cycle_336.wav,1552,0,normal,False,6_2S1JoiningH1000,336
+P5_6_2S1JoiningH1000_cycle_338.wav,1553,0,normal,False,6_2S1JoiningH1000,338
+P5_6_2S1JoiningH1000_cycle_342.wav,1554,0,normal,False,6_2S1JoiningH1000,342
+P5_6_2S1JoiningH1000_cycle_344.wav,1555,0,normal,False,6_2S1JoiningH1000,344
+P5_6_2S1JoiningH1000_cycle_346.wav,1556,0,normal,False,6_2S1JoiningH1000,346
+P5_6_2S1JoiningH1000_cycle_348.wav,1557,0,normal,False,6_2S1JoiningH1000,348
+P5_6_2S1JoiningH1000_cycle_350.wav,1558,0,normal,False,6_2S1JoiningH1000,350
+P5_6_2S1JoiningH1000_cycle_356.wav,1559,0,normal,False,6_2S1JoiningH1000,356
+P5_6_2S1JoiningH1000_cycle_361.wav,1560,0,normal,False,6_2S1JoiningH1000,361
+P5_6_2S1JoiningH1000_cycle_363.wav,1561,0,normal,False,6_2S1JoiningH1000,363
+P5_6_2S1JoiningH1000_cycle_365.wav,1562,0,normal,False,6_2S1JoiningH1000,365
+P5_6_2S1JoiningH1000_cycle_367.wav,1563,0,normal,False,6_2S1JoiningH1000,367
+P5_6_2S1JoiningH1000_cycle_371.wav,1564,0,normal,False,6_2S1JoiningH1000,371
+P5_6_2S1JoiningH1000_cycle_373.wav,1565,0,normal,False,6_2S1JoiningH1000,373
+P5_6_2S1JoiningH1000_cycle_375.wav,1566,0,normal,False,6_2S1JoiningH1000,375
+P5_6_2S1JoiningH1000_cycle_377.wav,1567,0,normal,False,6_2S1JoiningH1000,377
+P5_6_2S1JoiningH1000_cycle_379.wav,1568,0,normal,False,6_2S1JoiningH1000,379
+P5_6_2S1JoiningH1000_cycle_383.wav,1569,0,normal,False,6_2S1JoiningH1000,383
+P5_6_2S1JoiningH1000_cycle_385.wav,1570,0,normal,False,6_2S1JoiningH1000,385
+P5_6_2S1JoiningH1000_cycle_387.wav,1571,0,normal,False,6_2S1JoiningH1000,387
+P5_6_2S1JoiningH1000_cycle_389.wav,1572,0,normal,False,6_2S1JoiningH1000,389
+P5_6_2S1JoiningH1000_cycle_391.wav,1573,0,normal,False,6_2S1JoiningH1000,391
+P5_6_2S1JoiningH1000_cycle_393.wav,1574,0,normal,False,6_2S1JoiningH1000,393
+P5_6_2S1JoiningH1000_cycle_395.wav,1575,0,normal,False,6_2S1JoiningH1000,395
+P5_6_2S1JoiningH1000_cycle_397.wav,1576,0,normal,False,6_2S1JoiningH1000,397
+P5_6_2S1JoiningH1000_cycle_401.wav,1577,0,normal,False,6_2S1JoiningH1000,401
+P5_6_2S1JoiningH1000_cycle_403.wav,1578,0,normal,False,6_2S1JoiningH1000,403
+P5_6_2S1JoiningH1000_cycle_405.wav,1579,0,normal,False,6_2S1JoiningH1000,405
+P5_6_2S1JoiningH1000_cycle_407.wav,1580,0,normal,False,6_2S1JoiningH1000,407
+P5_6_2S1JoiningH1000_cycle_409.wav,1581,0,normal,False,6_2S1JoiningH1000,409
+P5_6_2S1JoiningH1000_cycle_411.wav,1582,0,normal,False,6_2S1JoiningH1000,411
+P5_6_2S1JoiningH1000_cycle_415.wav,1583,0,normal,False,6_2S1JoiningH1000,415
+P5_6_2S1JoiningH1000_cycle_417.wav,1584,0,normal,False,6_2S1JoiningH1000,417
+P5_6_2S1JoiningH1000_cycle_419.wav,1585,0,normal,False,6_2S1JoiningH1000,419
+P5_6_2S1JoiningH1000_cycle_421.wav,1586,0,normal,False,6_2S1JoiningH1000,421
+P5_6_2S1JoiningH1000_cycle_423.wav,1587,0,normal,False,6_2S1JoiningH1000,423
+P5_6_2S1JoiningH1000_cycle_425.wav,1588,0,normal,False,6_2S1JoiningH1000,425
+P5_6_2S1JoiningH1000_cycle_427.wav,1589,0,normal,False,6_2S1JoiningH1000,427
+P5_6_2S1JoiningH1000_cycle_429.wav,1590,0,normal,False,6_2S1JoiningH1000,429
+P5_6_2S1JoiningH1000_cycle_431.wav,1591,0,normal,False,6_2S1JoiningH1000,431
+P5_6_2S1JoiningH1000_cycle_433.wav,1592,0,normal,False,6_2S1JoiningH1000,433
+P5_6_2S1JoiningH1000_cycle_435.wav,1593,0,normal,False,6_2S1JoiningH1000,435
+P5_6_2S1JoiningH1000_cycle_437.wav,1594,0,normal,False,6_2S1JoiningH1000,437
+P5_6_2S1JoiningH1000_cycle_439.wav,1595,0,normal,False,6_2S1JoiningH1000,439
+P5_6_2S1JoiningH1000_cycle_441.wav,1596,0,normal,False,6_2S1JoiningH1000,441
+P5_6_2S1JoiningH1000_cycle_443.wav,1597,0,normal,False,6_2S1JoiningH1000,443
+P5_6_2S1JoiningH1000_cycle_445.wav,1598,0,normal,False,6_2S1JoiningH1000,445
+P5_6_2S1JoiningH1000_cycle_447.wav,1599,0,normal,False,6_2S1JoiningH1000,447
+P5_6_2S1JoiningH1000_cycle_449.wav,1600,0,normal,False,6_2S1JoiningH1000,449
+P5_6_2S1JoiningH1000_cycle_451.wav,1601,0,normal,False,6_2S1JoiningH1000,451
+P5_6_2S1JoiningH1000_cycle_453.wav,1602,0,normal,False,6_2S1JoiningH1000,453
+P5_6_2S1JoiningH1000_cycle_455.wav,1603,0,normal,False,6_2S1JoiningH1000,455
+P5_6_2S1JoiningH1000_cycle_459.wav,1604,0,normal,False,6_2S1JoiningH1000,459
+P5_6_2S1JoiningH1000_cycle_461.wav,1605,0,normal,False,6_2S1JoiningH1000,461
+P5_6_2S1JoiningH1000_cycle_467.wav,1606,0,normal,False,6_2S1JoiningH1000,467
+P5_6_2S1JoiningH1000_cycle_469.wav,1607,0,normal,False,6_2S1JoiningH1000,469
+P5_6_2S1JoiningH1000_cycle_471.wav,1608,0,normal,False,6_2S1JoiningH1000,471
+P5_6_2S1JoiningH1000_cycle_473.wav,1609,0,normal,False,6_2S1JoiningH1000,473
