@@ -76,6 +76,7 @@ htsat_stride = (4, 4)
 htsat_num_head = [4, 8, 16, 32]
 htsat_dim = 96
 htsat_depth = [2, 2, 6, 2]
+htsat_in_chans = 2
 
 swin_pretrain_path = None
 # "/home/Research/model_backup/pretrain/swin_tiny_c24_patch4_window8_256.pth"
