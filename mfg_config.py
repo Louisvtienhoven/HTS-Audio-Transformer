@@ -8,7 +8,7 @@ workspace = "./workspace_ADS_v3"  # the folder of your code
 dataset_path = "workspace_ADS_v3/mfg_robot"  # the dataset path
 desed_folder = ""  # the desed file
 
-dataset_type = "esc-50"  # "audioset" "esc-50" "scv2"
+dataset_type = "Data"  # "audioset" "Data" "scv2"
 index_type = "full_train"  # only works for audioset
 balanced_data = True  # only works for audioset
 
@@ -54,10 +54,10 @@ enable_repeat_mode = False  # repeat the spectrogram / reshape the spectrogram
 enable_tscam = True  # enbale the token-semantic layer
 
 # for signal processing
-sample_rate = 32000  # 16000 for scv2, 32000 for audioset and esc-50
+sample_rate = 32000  # 16000 for scv2, 32000 for audioset and Data
 clip_samples = sample_rate * 10  # audio_set 10-sec clip
 window_size = 1024
-hop_size = 320  # 160 for scv2, 320 for audioset and esc-50
+hop_size = 320  # 160 for scv2, 320 for audioset and Data
 mel_bins = 64
 fmin = 50
 fmax = 14000

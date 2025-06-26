@@ -122,7 +122,7 @@ This repository also includes the `htsat_esc_training.ipynb` notebook, which is 
    Open `config.py` and set the following parameters for ESC-50:
    ```python
    dataset_path   = "path/to/your/processed/esc50"
-   dataset_type   = "esc-50"
+   dataset_type   = "Data"
    loss_type      = "clip_ce"
    sample_rate    = 32000
    hop_size       = 320
@@ -164,7 +164,7 @@ The `config.py` file contains all the configuration settings required to run the
 
   ```python
   dataset_path   = "path/to/your/processed/esc50"
-  dataset_type   = "esc-50"
+  dataset_type   = "Data"
   loss_type      = "clip_ce"
   sample_rate    = 32000
   hop_size       = 320

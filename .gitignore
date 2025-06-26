@@ -1,4 +1,4 @@
-workspace/results
+anomaly_detection_workspace/results
 __pycache__/
 *.log
 *.ckpt

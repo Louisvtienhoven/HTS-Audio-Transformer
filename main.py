@@ -191,8 +191,8 @@ def test():
                 config = config,
                 eval_mode = True
             )
-        elif config.dataset_type == "esc-50":
-            full_dataset = np.load(os.path.join(config.dataset_path, "esc-50-data.npy"), allow_pickle = True)
+        elif config.dataset_type == "Data":
+            full_dataset = np.load(os.path.join(config.dataset_path, "Data-data.npy"), allow_pickle = True)
             eval_dataset = ESC_Dataset(
                 dataset = full_dataset,
                 config = config,
@@ -258,8 +258,8 @@ def train():
         eval_index_path = os.path.join(config.dataset_path,"hdf5s", "indexes", "eval.h5")
         train_idc = np.load(config.index_type + "_idc.npy", allow_pickle = True)
         eval_idc = np.load("eval_idc.npy", allow_pickle = True)
-    elif config.dataset_type == "esc-50":
-        full_dataset = np.load(os.path.join(config.dataset_path, "esc-50-data.npy"), allow_pickle = True)
+    elif config.dataset_type == "Data":
+        full_dataset = np.load(os.path.join(config.dataset_path, "Data-data.npy"), allow_pickle = True)
     elif config.dataset_type == "scv2":
         train_set = np.load(os.path.join(config.dataset_path, "scv2_train.npy"), allow_pickle = True)
         test_set = np.load(os.path.join(config.dataset_path, "scv2_test.npy"), allow_pickle = True)
@@ -287,7 +287,7 @@ def train():
             config = config,
             eval_mode = True
         )
-    elif config.dataset_type == "esc-50":
+    elif config.dataset_type == "Data":
         print("Using ESC")
         dataset = ESC_Dataset(
             dataset = full_dataset,

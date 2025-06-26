@@ -4,11 +4,11 @@
 # The configuration for training the model
 
 exp_name = "exp_htsat_esc_50"  # the saved ckpt prefix name of the model
-workspace = "./workspace"  # the folder of your code
-dataset_path = "./workspace/esc-50"  # the dataset path
+workspace = "./anomaly_detection_workspace"  # the folder of your code
+dataset_path = "anomaly_detection_workspace/esc-50"  # the dataset path
 desed_folder = ""  # the desed file
 
-dataset_type = "esc-50"  # "audioset" "esc-50" "scv2"
+dataset_type = "Data"  # "audioset" "Data" "scv2"
 index_type = "full_train"  # only works for audioset
 balanced_data = True  # only works for audioset
 
@@ -16,7 +16,7 @@ loss_type = "clip_ce"  #
 # AudioSet & SCV2: "clip_bce" |  ESC-50: "clip_ce"
 
 # trained from a checkpoint, or evaluate a single model
-resume_checkpoint = "./workspace/ckpt/htsat_audioset_pretrain.ckpt"
+resume_checkpoint = "./anomaly_detection_workspace/ckpt/htsat_audioset_pretrain.ckpt"
 # resume_checkpoint = None
 # "/home/Research/model_backup/AudioSet/HTSAT_AudioSet_Saved_1.ckpt"
 
@@ -54,10 +54,10 @@ enable_repeat_mode = False  # repeat the spectrogram / reshape the spectrogram
 enable_tscam = True  # enbale the token-semantic layer
 
 # for signal processing
-sample_rate = 32000  # 16000 for scv2, 32000 for audioset and esc-50
+sample_rate = 32000  # 16000 for scv2, 32000 for audioset and Data
 clip_samples = sample_rate * 10  # audio_set 10-sec clip
 window_size = 1024
-hop_size = 320  # 160 for scv2, 320 for audioset and esc-50
+hop_size = 320  # 160 for scv2, 320 for audioset and Data
 mel_bins = 64
 fmin = 50
 fmax = 14000
