@@ -23,7 +23,7 @@ from torch.utils.data.distributed import DistributedSampler
 
 from utils import create_folder, dump_config, process_idc, prepprocess_audio, init_hier_head
 
-import config
+import anomaly_detection_config as config
 from sed_model import SEDWrapper, Ensemble_SEDWrapper
 from models import Cnn14_DecisionLevelMax
 from data_generator import SEDDataset, DESED_Dataset, ESC_Dataset, SCV2_Dataset
@@ -142,7 +142,7 @@ def esm_test():
         sed_model = HTSAT_Swin_Transformer(
             spec_size=config.htsat_spec_size,
             patch_size=config.htsat_patch_size,
-            in_chans=1,
+            in_chans=2,
             num_classes=config.classes_num,
             window_size=config.htsat_window_size,
             config = config,
@@ -224,7 +224,7 @@ def test():
     sed_model = HTSAT_Swin_Transformer(
         spec_size=config.htsat_spec_size,
         patch_size=config.htsat_patch_size,
-        in_chans=1,
+        in_chans=2,
         num_classes=config.classes_num,
         window_size=config.htsat_window_size,
         config = config,
@@ -259,7 +259,7 @@ def train():
         train_idc = np.load(config.index_type + "_idc.npy", allow_pickle = True)
         eval_idc = np.load("eval_idc.npy", allow_pickle = True)
     elif config.dataset_type == "Data":
-        full_dataset = np.load(os.path.join(config.dataset_path, "Data-data.npy"), allow_pickle = True)
+        full_dataset = np.load(os.path.join(config.dataset_path, "data.npy"), allow_pickle = True)
     elif config.dataset_type == "scv2":
         train_set = np.load(os.path.join(config.dataset_path, "scv2_train.npy"), allow_pickle = True)
         test_set = np.load(os.path.join(config.dataset_path, "scv2_test.npy"), allow_pickle = True)
@@ -345,7 +345,7 @@ def train():
     sed_model = HTSAT_Swin_Transformer(
         spec_size=config.htsat_spec_size,
         patch_size=config.htsat_patch_size,
-        in_chans=1,
+        in_chans=2,
         num_classes=config.classes_num,
         window_size=config.htsat_window_size,
         config = config,

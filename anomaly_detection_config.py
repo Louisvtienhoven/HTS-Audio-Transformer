@@ -8,7 +8,7 @@ workspace = "./anomaly_detection_workspace"  # the folder of your code
 dataset_path = "./anomaly_detection_workspace/Data" #Dataset path
 desed_folder = ""  # the desed file
 
-dataset_type = "esc-50"  # "audioset" "esc-50" "scv2"
+dataset_type = "Data"  # "audioset" "esc-50" "scv2"
 index_type = "full_train"  # only works for audioset
 balanced_data = True  # only works for audioset
 
@@ -30,7 +30,7 @@ esc_fold = 1  # just for esc dataset, select the fold you need for evaluation an
 debug = False
 
 random_seed = 970131  # 19970318 970131 12412 127777 1009 34047
-batch_size = 8  # batch size per GPU x GPU number , default is 32 x 4 = 128
+batch_size = 16  # batch size per GPU x GPU number , default is 32 x 4 = 128
 learning_rate = 1e-3  # 1e-4 also workable
 max_epoch = 500
 num_workers = 2
@@ -60,7 +60,7 @@ enable_tscam = True  # enbale the token-semantic layer
 
 # for signal processing
 sample_rate = 32000  # 16000 for scv2, 32000 for audioset and esc-50##CHANGED
-clip_samples = sample_rate * 1  # audio_set 10-sec clip, was *10##CHANGED
+clip_samples = sample_rate * 1.5  # audio_set 10-sec clip, was *10##CHANGED
 window_size = 1024  # (original 1024)
 hop_size = 40  # 160 for scv2, 320 for audioset and esc-50##CHANGED
 mel_bins = 64
