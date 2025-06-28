@@ -15,7 +15,7 @@ import torch.utils.checkpoint as checkpoint
 from torchlibrosa.stft import Spectrogram, LogmelFilterBank
 from torchlibrosa.augmentation import SpecAugmentation
 
-from model.Archive.layers import PatchEmbed, Mlp, DropPath, trunc_normal_, to_2tuple
+from model.layers import PatchEmbed, Mlp, DropPath, trunc_normal_, to_2tuple
 from utils import do_mixup, interpolate
 
 
