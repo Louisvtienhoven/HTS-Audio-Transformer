@@ -142,7 +142,7 @@ ESC-50 was also evaluated in unsupervised learning settings ([Zhao et al., 2022]
   - `{TAKE}` - letter disambiguating between different fragments from the same Freesound clip,
   - `{TARGET}` - class in numeric format [0, 49].
 
-- [`meta/esc50.csv`](meta/esc50.csv)
+- [`meta/esc50.csv`](meta/Archive/esc50.csv)
 
   CSV file with the following structure:
 
@@ -151,7 +151,7 @@ ESC-50 was also evaluated in unsupervised learning settings ([Zhao et al., 2022]
 
   The `esc10` column indicates if a given file belongs to the *ESC-10* subset (10 selected classes, CC BY license).
 
-- [`meta/esc50-human.xlsx`](meta/esc50-human.xlsx)
+- [`meta/esc50-human.xlsx`](meta/Archive/esc50-human.xlsx)
 
   Additional data pertaining to the crowdsourcing experiment (human classification accuracy).
 

@@ -748,6 +748,9 @@ class HTSAT_Swin_Transformer(nn.Module):
         # NO transpose needed: keep shape (B, 2, T, F)
         x = self.bn0(x)  # input shape (B, 2, T, F), channels=2
 
+        # Crop time axis
+        #x = x[:, :, :, :self.config.htsat_spec_size]  # Crop time axis to 576
+
         if self.training:
             x = self.spec_augmenter(x)
         if self.training and mixup_lambda is not None:

@@ -30,10 +30,10 @@ esc_fold = 1  # just for esc dataset, select the fold you need for evaluation an
 debug = False
 
 random_seed = 970131  # 19970318 970131 12412 127777 1009 34047
-batch_size = 16  # batch size per GPU x GPU number , default is 32 x 4 = 128
+batch_size = 8  # batch size per GPU x GPU number , default is 32 x 4 = 128
 learning_rate = 1e-4  # 1e-4 also workable
 max_epoch = 50
-num_workers = 2
+num_workers = 0
 
 lr_scheduler_epoch = [10, 20, 30]
 lr_rate = [0.02, 0.05, 0.1]
@@ -60,9 +60,9 @@ enable_tscam = True  # enbale the token-semantic layer
 
 # for signal processing
 sample_rate = 32000  # 16000 for scv2, 32000 for audioset and esc-50##CHANGED
-clip_samples = sample_rate * 1  # audio_set 10-sec clip, was *10##CHANGED
+clip_samples = sample_rate * 1.2  # audio_set 10-sec clip, was *10##CHANGED
 window_size = 1024  # (original 1024)
-hop_size = 40  # 160 for scv2, 320 for audioset and esc-50##CHANGED
+hop_size = 320#320 # 160 for scv2, 320 for audioset and esc-50##CHANGED
 mel_bins = 64
 fmin = 1
 fmax = 16000
@@ -75,13 +75,13 @@ crop_size = None  # int(clip_samples * 0.5) deprecated
 
 # for htsat hyperparamater
 htsat_window_size = 4  ##changed from 8
-htsat_spec_size = 384  # (was 384) ###CHANGED
-htsat_patch_size = 4
-htsat_stride = (4, 4)
+htsat_spec_size = 512 #256 #384 #576 #256 #384  # (was 256) ###CHANGED
+htsat_patch_size = 8
+htsat_stride = (8, 8)
 htsat_num_head = [4, 8, 16, 32]
 htsat_dim = 96
 htsat_depth = [2, 2, 6, 2]
-htsat_in_chans = 1
+htsat_in_chans = 2
 swin_pretrain_path = None
 # "/home/Research/model_backup/pretrain/swin_tiny_c24_patch4_window8_256.pth"
 

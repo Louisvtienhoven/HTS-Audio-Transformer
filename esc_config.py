@@ -26,7 +26,7 @@ debug = False
 
 random_seed = 970131  # 19970318 970131 12412 127777 1009 34047
 batch_size = 64  # batch size per GPU x GPU number , default is 32 x 4 = 128
-learning_rate = 1e-3  # 1e-4 also workable
+learning_rate = 1e-4  # 1e-4 also workable
 max_epoch = 100
 num_workers = 3
 
@@ -57,7 +57,7 @@ enable_tscam = True  # enbale the token-semantic layer
 sample_rate = 32000  # 16000 for scv2, 32000 for audioset and Data
 clip_samples = sample_rate * 10  # audio_set 10-sec clip
 window_size = 1024
-hop_size = 320  # 160 for scv2, 320 for audioset and Data
+hop_size = 40  # 160 for scv2, 320 for audioset and Data
 mel_bins = 64
 fmin = 50
 fmax = 14000
@@ -69,8 +69,8 @@ patch_size = (25, 4)  # deprecated
 crop_size = None  # int(clip_samples * 0.5) deprecated
 
 # for htsat hyperparamater
-htsat_window_size = 8
-htsat_spec_size = 256
+htsat_window_size = 4
+htsat_spec_size = 576
 htsat_patch_size = 4
 htsat_stride = (4, 4)
 htsat_num_head = [4, 8, 16, 32]

@@ -192,7 +192,7 @@ def pad_framewise_output(framewise_output, frames_num):
     return output
 
 # set the audio into the format that can be fed into the model
-# resample -> convert to mono -> output the audio  
+# resample_1s -> convert to mono -> output the audio
 # track [n_sample, n_channel]
 def prepprocess_audio(track, ofs, rfs, mono_type = "mix"):
     if track.shape[-1] > 1:

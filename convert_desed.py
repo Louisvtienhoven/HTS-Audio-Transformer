@@ -12,7 +12,7 @@ import soundfile as sf
 def main():
     desed_folder = os.path.join(config.desed_folder, "audio", "eval", "public")
     fl_files = os.listdir(desed_folder)
-    output_dir = os.path.join(config.desed_folder, "audio", "eval", "resample")
+    output_dir = os.path.join(config.desed_folder, "audio", "eval", "resample_1s")
     output_dict = []
     for f in fl_files:
         y, sr = librosa.load(os.path.join(desed_folder, f), sr = config.sample_rate)
