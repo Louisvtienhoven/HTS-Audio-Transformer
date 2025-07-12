@@ -11,7 +11,7 @@ from utils import create_folder, dump_config
 import anomaly_detection_config as config
 from sed_model import SEDWrapper
 from data_generator import ESC_Dataset
-from model.htsat_in_chans_2 import HTSAT_Swin_Transformer
+from model.htsat_modified import HTSAT_Swin_Transformer
 
 def create_path(path):
     if not os.path.exists(path):

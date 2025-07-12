@@ -29,7 +29,7 @@ from models import Cnn14_DecisionLevelMax
 from data_generator import SEDDataset, DESED_Dataset, ESC_Dataset, SCV2_Dataset
 
 
-from model.htsat_in_chans_2 import HTSAT_Swin_Transformer
+from model.htsat_modified import HTSAT_Swin_Transformer
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
 import warnings
