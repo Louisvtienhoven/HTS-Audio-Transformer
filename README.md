@@ -1,6 +1,22 @@
+
+# Adapting Audio-Spectrogram Transformers for Industrial Time-Series Sensor Data
+
+
+This repository extends HTS-AT to address a novel industrial application: anomaly detection in robotic drilling and riveting used in the production of launcher structures. This work was developed and evaluated as part of the MSc thesis _Adapting Audio-Spectrogram Transformers for Industrial Time-Series Sensor Data_ by Louis van Tienhoven (TU Delft, 2025).
+
+The HTS-AT model has been adapted to process torque sensor data collected during rivet installation, enabling the detection of subtle mechanical anomalies. To this end, several targeted modifications were introduced to the data pipeline, model input format, and evaluation setup.
+
+Relevant files:
+
+Training notebook: htsat_anomaly_detection_training.ipynb
+
+Configuration file: anomaly_detection_config.py
+
+Modified HTS-AT model: model/htsat_modifed.py
+
+For detailed information on the architecture, signal processing, and experimental setup, refer to Sections 5.3 through 6.3 of the thesis.
+
 # Hierarchical Token Semantic Audio Transformer
-
-
 ## Introduction
 
 The Code Repository for  "[HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection](https://arxiv.org/abs/2202.00874)", in ICASSP 2022.
