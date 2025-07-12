@@ -22,7 +22,7 @@ if __name__ == "__main__":
     multiprocessing.freeze_support()
 
     # Set up paths
-    workspace = "./anomaly_detection_workspace"
+    workspace = "./Workspace"
     dataset_path = os.path.join(workspace, "Data")
     checkpoint_path = os.path.join(workspace, "ckpt")
     esc_raw_path = os.path.join(dataset_path, 'raw')

@@ -4,8 +4,8 @@
 # The configuration for training the model
 
 exp_name = "exp_htsat_esc_50"  # the saved ckpt prefix name of the model
-workspace = "./anomaly_detection_workspace"  # the folder of your code
-dataset_path = "./anomaly_detection_workspace/Data" #Dataset path
+workspace = "./Workspace"  # the folder of your code
+dataset_path = "Workspace/Data"  #Dataset path
 desed_folder = ""  # the desed file
 
 dataset_type = "Data"  # "audioset" "esc-50" "scv2"
