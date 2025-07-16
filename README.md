@@ -15,7 +15,6 @@ Configuration file: `anomaly_detection_config.py`
 Modified HTS-AT model:  `.model/htsat_modifed.py`
 
 
-> **Note:** The workspace with the original data has been emptied for confidentiality reasons.
 # Hierarchical Token Semantic Audio Transformer
 ## Introduction
 
